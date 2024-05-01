@@ -26,7 +26,7 @@ def filter_links(input_file, output_file):
             line = line.strip('`')
             # Add the line to the list only if it is not empty
             if line:
-                filtered_lines.append(line + '\n')
+                filtered_lines.append(line)
 
     # Limit the number of lines to 100
     filtered_lines = filtered_lines[:50]
