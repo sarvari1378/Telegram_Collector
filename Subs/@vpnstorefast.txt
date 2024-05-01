@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.213:443#@vpnstorefast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnstorefast
 vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@185.146.173.231:80?path=%2F%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-V2&security=none&encryption=none&host=cafebazaar.irzula.ir.www.speedtest.net.My-Archive69.Site.&type=ws#%@vpnstorefast
 vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@198.41.206.124:80?path=%2F%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-V2&security=none&encryption=none&host=cafebazaar.irzula.ir.www.speedtest.net.My-Archive69.Site.&type=ws#%@vpnstorefast
 vless://ad19c2cb-202e-4126-a004-265737ca4006@visa.com:8443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=telegram-falcunargo-turky.falcunar.asso.eu.org&type=ws&sni=telegram-falcunargo-turky.falcunar.asso.eu.org#@vpnstorefast
@@ -46,5 +48,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnstorefast
 vless://b75a978c-c07b-4ee7-babb-6347c7cec3be@172.66.47.84:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg11.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg11.pages.dev#@vpnstorefast
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=%2FOyaFdNKpGFcX0BjG%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#@vpnstorefast
-vless://9ec8bc65-d88a-4c82-a174-286ce9e03916@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=982841512.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#@vpnstorefast
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FJAR0HGBT6mwTVcbf%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
