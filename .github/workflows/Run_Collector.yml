@@ -2,9 +2,10 @@ name: Run collector.py file
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches:
+      - main
+  schedule:
+    - cron: '*/120 * * * *'
 
 jobs:
   build:
