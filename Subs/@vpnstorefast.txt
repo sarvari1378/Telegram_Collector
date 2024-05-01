@@ -1,5 +1,7 @@
-vless://f6d56974-2fe4-4d2c-b869-bd281f1301be@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=se1.v2vless.xyz&type=ws&host=se1.v2vless.xyz&path=%2Fvless#@vpnstorefast
-vless://f6d56974-2fe4-4d2c-b869-bd281f1301be@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=se1.v2vless.xyz&type=grpc&serviceName=vless-grpc&mode=gun#@vpnstorefast
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FJAR0HGBT6mwTVcbf%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
+vless://58f745de-64b0-451b-b617-88b8417e7bda@185.146.173.32:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#@vpnstorefast
+vless://f6360595-b96f-427e-8a8e-3a98ed626739@zula.ir:2095?path=%2F&security=none&encryption=none=Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann - Telegram : %40ghalagyann&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#@vpnstorefast
+vless://04d58238-5800-482a-99b4-329f3bb126eb@zula.ir:8080?type=ws&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&security=none#@vpnstorefast
 vmess://eyJob3N0IjoiIiwiaWQiOiIyYjdjZTFkMi0wMzcyLTQxMDQtYWEwNi1mN2Q5OTlmMjZlMWQiLCJwb3J0IjoiODAiLCJwcyI6IiU0MHZwbnN0b3JlZmFzdCIsInR5cGUiOiJub25lIiwiYWRkIjoiMTc4LjIzOS4xNTAuMTcwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIifQ==
 vless://1436ec94-4d33-4931-8a18-ed43a2a7d11d@185.146.173.185:2095?type=ws&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=/V2rayCUSTOMIZE?ed%3D1024&security=none#@vpnstorefast
 vless://5a99953f-8600-439c-aee1-ec7a0fbb9079@freeiranweb.pages.dev:443?path=%2Fvless&security=tls&encryption=none&host=us2.v2vless.xyz&type=ws&sni=us2.v2vless.xyz#@vpnstorefast
@@ -46,5 +48,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8119#@vpnstorefast
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.6:5500#@vpnstorefast
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.47:6379#@vpnstorefast
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?path=%2FnOE4xamjMRA2hxwO%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#@vpnstorefast
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80?path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=V2rayGodVip--free.azaronline.Org.&type=ws#@vpnstorefast
-vless://-DIGIV2RAY--@www.Speedtest.Net:80?path=%2FDigiv2ray-%3Fed%3D2048&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#@vpnstorefast
