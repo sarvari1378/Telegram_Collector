@@ -28,3 +28,12 @@ jobs:
         API_HASH: ${{ secrets.API_HASH }}
       run: |
         python Scripts/Collector.py
+
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update files" || exit 0  # Exit successfully if there's nothing to commit
+        git push --force
