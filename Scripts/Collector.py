@@ -5,8 +5,8 @@ import os
 import asyncio
 
 # Replace these with your own API ID and hash
-api_id = os.environ['API_ID']
-api_hash = os.environ['API_HASH']
+api_id = os.environ['api_id']
+api_hash = os.environ['api_hash']
 
 # Replace 'your_username' with the username you want to get messages from
 target_usernames = ['@vpnstorefast', '@FreakConfig', '@Seyyedmt']
