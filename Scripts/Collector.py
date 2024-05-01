@@ -9,7 +9,7 @@ api_id = os.environ['API_ID']
 api_hash = os.environ['API_HASH']
 
 # Replace 'your_username' with the username you want to get messages from
-target_usernames = ['@vpnstorefast', '@Gold_vpn_config']
+target_usernames = ['@vpnstorefast', '@FreakConfig']
 
 # Use a session file to store the client's authorization
 session_file = 'Session/@ssarvari1378.session'
