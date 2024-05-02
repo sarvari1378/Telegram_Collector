@@ -1,3 +1,5 @@
+vless://0811015a-99a3-4cae-9d56-c3ad37f6cc72@185.146.173.32:2052?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast`
+vless://4114bd33-e93d-46d4-a57f-9c9f1ea7cf1f@172.66.213.5:80?path=%40HAJIMAMADVPN%3Fed%3D2048&security=none&encryption=none&host=bia-channel-hajimamadvpn.timeclassic.ir&type=ws#@vpnstorefast
 vless://bia--ZEDMODEON@analytics-cn.elephant-tech.xyz.:80?path=join-ZEDMODEON-bia-ZEDMODEON-join-ZEDMODEON-channel-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=bia-zedmodeonjoin-zedmodeon.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#@vpnstorefast
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@vpnstorefast
@@ -46,5 +48,3 @@ vless://041f229a-63f6-4af1-a492-8cbff5797b8a@visa.com:8443?path=%2F%3Fed%3D2048&
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@vpnstorefast
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.213:443#@vpnstorefast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnstorefast
-vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@185.146.173.231:80?path=%2F%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-V2&security=none&encryption=none&host=cafebazaar.irzula.ir.www.speedtest.net.My-Archive69.Site.&type=ws#%@vpnstorefast
-vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@198.41.206.124:80?path=%2F%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-V2&security=none&encryption=none&host=cafebazaar.irzula.ir.www.speedtest.net.My-Archive69.Site.&type=ws#%@vpnstorefast
