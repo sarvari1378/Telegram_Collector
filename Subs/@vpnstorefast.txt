@@ -1,3 +1,5 @@
+vless://37666f81-7133-4e02-b2e6-273d2fcd8f98@104.17.169.114:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#@vpnstorefast
+vless://37666f81-7133-4e02-b2e6-273d2fcd8f98@104.17.169.114:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#@vpnstorefast
 vless://telegram-.vpnfree24@hapimapi.filemail.ir:2087?type=ws&security=tls&path=%2F&sni=hapimapi.filemail.ir#@vpnstorefast
 vless://9e79f3ad-96a3-4b1b-8cc7-582f86bc8c7d@172.64.150.28:8080?path=%2Fmelov2ray&security=none&encryption=none&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&type=ws#@vpnstorefast`
 vless://9e79f3ad-96a3-4b1b-8cc7-582f86bc8c7d@104.18.37.228:8080?path=%2Fmelov2ray&security=none&encryption=none&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&type=ws#@vpnstorefast
@@ -46,5 +48,3 @@ vless://f6360595-b96f-427e-8a8e-3a98ed626739@zula.ir:2095?path=%2F&security=none
 vless://04d58238-5800-482a-99b4-329f3bb126eb@zula.ir:8080?type=ws&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&security=none#@vpnstorefast
 vmess://eyJob3N0IjoiIiwiaWQiOiIyYjdjZTFkMi0wMzcyLTQxMDQtYWEwNi1mN2Q5OTlmMjZlMWQiLCJwb3J0IjoiODAiLCJwcyI6IiU0MHZwbnN0b3JlZmFzdCIsInR5cGUiOiJub25lIiwiYWRkIjoiMTc4LjIzOS4xNTAuMTcwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIifQ==
 vless://1436ec94-4d33-4931-8a18-ed43a2a7d11d@185.146.173.185:2095?type=ws&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=/V2rayCUSTOMIZE?ed%3D1024&security=none#@vpnstorefast
-vless://5a99953f-8600-439c-aee1-ec7a0fbb9079@freeiranweb.pages.dev:443?path=%2Fvless&security=tls&encryption=none&host=us2.v2vless.xyz&type=ws&sni=us2.v2vless.xyz#@vpnstorefast
-vless://503883e5-6e8f-42db-9356-88b48942be12@185.146.173.32:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#@vpnstorefast
