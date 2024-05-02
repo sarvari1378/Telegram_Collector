@@ -1,3 +1,5 @@
+vless://TMCUSTOMIZE@CUSTOMIZEV2ray.V2ray.motorcycles:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE`
+vless://TMCUSTOMIZE@188.114.98.224:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#MKH VPNCUSTOMIZE``
 vless://ad88ec60-27b9-46b8-8604-be686577fe5e@CUSTOMIZEV2ray.V2ray.motorcycles:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE`
 vless://ad88ec60-27b9-46b8-8604-be686577fe5e@188.114.98.224:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#MKH VPNCUSTOMIZE``
 vless://1436ec94-4d33-4931-8a18-ed43a2a7d11d@CUSTOMIZEV2ray.V2ray.motorcycles:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE`
@@ -46,5 +48,3 @@ vless://VPNCUSTOMiZE@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=n
 vless://VPNCUSTOMIZE@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14`
 vless://VPNCUSTOMiZE@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14`
 vless://VPNCUSTOMIZE@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14`
-vless://VPNCUSTOMIZE@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14`
-vless://aaea8263-2a7e-4351-b6d8-a61c68700d50@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14`
