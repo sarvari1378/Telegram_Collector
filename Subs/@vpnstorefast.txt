@@ -1,3 +1,12 @@
+vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&encryption=none&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maps.google.com&sid=bfde1c85a6a4112a#@vpnstorefast
+vless://0ed8ecc6-33ed-4fa8-8b50-cbe39cf0912b@95.216.177.180:10559?security=reality&encryption=none&pbk=JTt7Au4cLeKLnQfD8O-yO19nS5u2CgP3fIO1DHlej1c&headerType=none&fp=randomized&type=tcp&sni=yahoo.com&sid=c5f1f156#@vpnstorefast
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
+vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@104.21.40.63:443?path=%2Fnimws&security=tls&encryption=none&host=thorianite.toptechnonews.com&type=ws&sni=thorianite.toptechnonews.com#@vpnstorefast
+vmess://eyJhZGQiOiJ1czNlLW1tbm5mcjlkb3AwLnYyZnJlZXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzM2UtbW1ubmZyOWRvcDAudjJmcmVldnBuLmNvbSIsImlkIjoiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YxMTgtZmNjeG14bTM1IiwicG9ydCI6IjgwIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==#@vpnstorefast
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.6:8888#@vpnstorefast
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.116:8000#@vpnstorefast
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.66:8008#@vpnstorefast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@vpnstorefast
 vless://MsV2ray-MsV2ray-MsV2ray@Back.MsV2ray.Online:80?path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=www.zula.ir.www.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&type=ws#@vpnstorefast
 vless://ItsLegendaryking@www.foodmarketiran.net:443?mode=gun&security=reality&encryption=none&authority=&pbk=9msMwewISOGC1c-vl_wdykqGUKLFmULy_2U91PGU4AE&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&sni=icloud.com#@vpnstorefast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vpnstorefast
@@ -39,12 +48,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FJAR0HGBT6m
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnstorefast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@vpnstorefast
 vless://7fdaf33f-00a0-4331-8668-813c7f0f0cb2@49.13.225.84:443?security=none&encryption=none&headerType=none&type=tcp#@vpnstorefast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#@vpnstorefast
-vless://0811015a-99a3-4cae-9d56-c3ad37f6cc72@185.146.173.32:2052?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast`
-vless://4114bd33-e93d-46d4-a57f-9c9f1ea7cf1f@172.66.213.5:80?path=%40HAJIMAMADVPN%3Fed%3D2048&security=none&encryption=none&host=bia-channel-hajimamadvpn.timeclassic.ir&type=ws#@vpnstorefast
-vless://bia--ZEDMODEON@analytics-cn.elephant-tech.xyz.:80?path=join-ZEDMODEON-bia-ZEDMODEON-join-ZEDMODEON-channel-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=bia-zedmodeonjoin-zedmodeon.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#@vpnstorefast
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@vpnstorefast
-vless://c820c9e8-0d1f-42d8-8947-c6fc93a682d3@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=33333.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#@vpnstorefast
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@v2raygodvip--allh1.v2raygod.site:80?path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=V2rayGodVip--free.azaronline.Org.&type=ws#@vpnstorefast
-vless://Telegram-ipV2Ray-zew@190.93.247.155:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=16.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&type=ws#@vpnstorefast
