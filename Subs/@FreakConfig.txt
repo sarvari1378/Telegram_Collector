@@ -1,3 +1,5 @@
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#telegram+%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?security=tls&encryption=none&alpn=h2,http/1.1&host=BiA-pAIN-bACHE.pAges.DEv&fp=randomized&type=ws&sni=BIa-pAIN-bAche.PagEs.DeV#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
@@ -46,5 +48,3 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0`
 vless://7f55b425-a623-439b-bbd5-0b1778162054@v2raygodvip--allh1.v2raygod.site:80?security=none&encryption=none&host=v2raygodvip--free24.Azaronline.Org.&type=ws#%40Freakconfig%F0%9F%87%A8%F0%9F%87%B5
 vless://c5563d61-58cb-4374-a966-fc533b5312ed@104.26.13.8:2087?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=ram.49z.info#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
-vless://a49672ff-8770-4fdb-b4bd-f0394d7f5e82@185.146.173.59:80?security=none&encryption=none&host=shhproxyfreesas.xn--85-pv2cl2k5x3fipr.org.&type=ws#telegram+%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
-vless://7b0cd783-4d2a-4d4a-a1bb-66a98e3a85cb@172.66.47.84:443?security=tls&encryption=none&host=0a6b0c0a.expressvpnfree021-4j0.pages.dev&type=ws&sni=0a6b0c0a.expressvpnfree021-4j0.pages.dev#telegram+%40Freakconfig`
