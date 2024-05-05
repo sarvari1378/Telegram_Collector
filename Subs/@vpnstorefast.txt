@@ -1,3 +1,7 @@
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FJAR0HGBT6mwTVcbf%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#@vpnstorefast
+vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&fp=random&type=ws&sni=pardazesh-tgws.pages.dev#@vpnstorefast
+vless://MsV2ray-MsV2ray-MsV2ray@back.msv2ray.online:80?path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=www.zula.ir.www.cafebazaar.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&type=ws#@vpnstorefast
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@vpnstorefast
 vless://7fdaf33f-00a0-4331-8668-813c7f0f0cb2@49.13.225.84:443?security=none&encryption=none&headerType=none&type=tcp#@vpnstorefast
 vless://e5d90af1-64fe-41f9-ab82-b3006b2e2a70@212.33.206.80:8478?security=none&encryption=none&headerType=http&type=tcp#@vpnstorefast
@@ -44,7 +48,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?path=%2FsFZQZZqpG
 vless://24518c53-79cc-4cd1-828b-0b81a8cba0f6@185.146.173.58:80?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER%3Fed&security=none&encryption=none&host=1.4.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.coM.&type=ws#@vpnstorefast
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&encryption=none&type=ws&host=BIA-paIN-bAcHe.PAGeS.DEV&path=/sFZQZZqpGa0nQ6jR?ed%3D2560&sni=BIa-PAiN-BAChe.PAGeS.dev&fp=randomized&alpn=h2,http/1.1#@vpnstorefast
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
-vless://7fdaf33f-00a0-4331-8668-813c7f0f0cb2@49.13.225.84:443?security=none&encryption=none&headerType=none&type=tcp#@vpnstorefast
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@vpnstorefast
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&encryption=none&type=ws&host=Bia-PAIN-baChe.paGEs.DeV&path=/&sni=BIa-PaiN-baChE.pageS.dev&fp=randomized&alpn=h2,http/1.1#@vpnstorefast
-vless://Parsashonam-61@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#@vpnstorefast+mci+wifi
