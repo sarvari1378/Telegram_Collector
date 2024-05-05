@@ -1,3 +1,5 @@
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#telegram+%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?security=tls&encryption=none&alpn=h2,http/1.1&host=bIA-PAIN-BacHe.pAGeS.DEV&fp=randomized&type=ws&sni=BiA-PAiN-bAcHe.PAGes.deV#telegram+%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%40Freakconfig%F0%9F%87%B2%F0%9F%87%AB`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
@@ -46,5 +48,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.187:8882#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUFQzTWkyNUlYWVAzaVd6UEphcnlR@88.210.6.98:60869#telegram+%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40Freakconfig%F0%9F%87%A6%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40Freakconfig`
