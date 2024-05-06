@@ -1,3 +1,6 @@
+vless://81587701-5184-4999-b130-2c7a6f99bb24@www.visa.com.sg:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg34.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg34.pages.dev#@vpnstorefast
+vless://a048c597-571a-43c7-99e6-62f42eba763b@185.146.173.94:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vmess://eyJwb3J0IjoiMjA4NyIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwiaG9zdCI6IiIsInNuaSI6Im9jNC5zZXJ2ZXJkbWdsLm9yZyIsInBhdGgiOiIiLCJpZCI6IjJhMzI2M2UyLTg5MWMtNDQ0Ni1iNDc0LWE4YzYzYWNiNmUyNSIsImFscG4iOiJoMixodHRwXC8xLjEiLCJwcyI6IiU0MHZwbnN0b3JlZmFzdCIsInR5cGUiOiJndW4iLCJhZGQiOiIxMDQuMjUuMTA3LjgifQ==
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?path=%2FsFZQZZqpGa0nQ6jR%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=randomized&type=ws&sni=BIa-PAiN-BAChe.PAGeS.dev#@vpnsorefast
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@vpnsorefast
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?path=%2FirhfpYO0S9VRvTSg%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bIA-PAIN-BacHe.pAGeS.DEV&fp=randomized&type=ws&sni=BiA-PAiN-bAcHe.PAGes.deV#@vpnsorefast
@@ -45,6 +48,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FTelegram-p
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?path=Telegram-FreeVirGoolNet%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?path=%2FsFZQZZqpGa0nQ6jR%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=randomized&type=ws&sni=BIa-PAiN-BAChe.PAGeS.dev#@vpnstorefast
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.44:5003#@vpnstorefast
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.44:3389#@vpnstorefast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#@vpnstorefast
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#@vpnstorefast
