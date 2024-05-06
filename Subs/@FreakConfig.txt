@@ -1,3 +1,5 @@
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#telegram+%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#telegram+%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
 vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@w3.org:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=api2.shabazian.ir&fp=chrome&type=ws&sni=api2.shabazian.ir#telegram+%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
 vless://0ed8ecc6-33ed-4fa8-8b50-cbe39cf0912b@95.216.177.180:10559?security=reality&encryption=none&pbk=JTt7Au4cLeKLnQfD8O-yO19nS5u2CgP3fIO1DHlej1c&headerType=none&fp=randomized&type=tcp&sni=yahoo.com&sid=c5f1f156#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#telegram+%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
@@ -46,5 +48,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.187:8882#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0`
