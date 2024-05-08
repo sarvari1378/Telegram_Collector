@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?security=tls&encryption=none&host=12148dF7.miKApaGE.pagES.dEV&fp=randomized&type=ws&sni=12148Df7.miKApaGE.PAgeS.Dev#%40Freakconfig%F0%9F%87%B9%F0%9F%87%B7
+vmess://eyJhZGQiOiI5NC4xODIuMTUwLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYjdjZTFkMi0wMzcyLTQxMDQtYWEwNi1mN2Q5OTlmMjZlMWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJARnJlYWtjb25maWfwn4e58J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig%F0%9F%87%A6%F0%9F%87%AA
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%A6%F0%9F%87%AA`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeUFZajhQRVdoZG5laFFjdjBzSVRjRVVoNXc3dHdtajVhNVh1YUZTdElzPQ==@3.72.232.229:8080#%40Freakshop%F0%9F%87%AD%F0%9F%87%B0
@@ -46,5 +48,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#telegram+%40Freakc
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0`
 vless://b75a978c-c07b-4ee7-babb-6347c7cec3be@172.66.47.84:443?security=tls&encryption=none&host=pardazeshvpn-tg11.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg11.pages.dev#%40Freakconfig%F0%9F%87%AB%F0%9F%87%AE
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#%40Freakconfig%F0%9F%87%AB%F0%9F%87%AE`
-vless://Telegram-ipV2Ray-xrs@172.66.213.5:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=14.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&type=ws#Telegram+%40Freakconfig%F0%9F%87%B2%F0%9F%87%AB
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%B2%F0%9F%87%AB`
