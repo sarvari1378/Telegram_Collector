@@ -1,3 +1,5 @@
+vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@185.146.173.89:80/?type=ws&encryption=none&flow=&host=V2rayGodVip--free.azaronline.Org.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%B2%F0%9F%87%AB
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@185.146.173.89:80?security=none&encryption=none&host=V2rayGodVip--free.azaronline.Org.&type=ws#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
 vless://c0cf878e-08b3-4e10-b055-b334da6a6f71@www.speedtest.net:80?security=none&encryption=none&host=mihanyas.ir.zula.ir.xn--4all.vipleech.cc.&type=ws#%40Freakconfig%F0%9F%87%AE%F0%9F%87%B9
@@ -46,5 +48,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&encr
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?security=tls&encryption=none&alpn=h2,http/1.1&host=BiA-pAIN-bACHE.pAges.DEv&fp=randomized&type=ws&sni=BIa-pAIN-bAche.PagEs.DeV#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0`
-vless://aab09ae2-7fb0-4531-8b00-bf923553ae37@209.38.242.189:59735?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
-vless://aab09ae2-7fb0-4531-8b00-bf923553ae37@209.38.242.189:59735?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
