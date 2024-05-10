@@ -1,3 +1,4 @@
+vmess://eyJpZCI6ImY3NzY1YWEwLTAxYjMtNGYwMi1lYzJkLWJiZWJlZDAzYzEzYyIsInBvcnQiOiIzMjg2MCIsImFkZCI6InNlcnZlci5kYXRhY3JhZnR0LmNsaWNrIiwidGxzIjoibm9uZSIsInBhdGgiOiJcLyIsInR5cGUiOiJodHRwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBzIjoiJTQwdnBuc3RvcmVmYXN0IiwiaG9zdCI6IiJ9
 vless://9c25811b-4144-4bfd-a414-33cd131ae2c5@104.17.169.114:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#@vpnstorefast`
 vless://9c25811b-4144-4bfd-a414-33cd131ae2c5@104.17.169.114:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#@vpnstorefast
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?path=%2FTelegram-V2ray_Alpha%3Fed%3D2560&security=tls&encryption=none&host=12148dF7.miKApaGE.pagES.dEV&fp=randomized&type=ws&sni=12148Df7.miKApaGE.PAgeS.Dev#@vpnstorefast
@@ -47,4 +48,3 @@ vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=%2F%3Fed%3
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@vpnstorefast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnstorefast
 vmess://eyJuZXQiOiJ3cyIsImhvc3QiOiJ4bi0tMDQ3aC5hYWEubWVyb3NhYm9yYW4ubW9uc3Rlci4iLCJwb3J0IjoiMjA1MiIsImlkIjoiZTNhYmRiMTUtMDJiNi00NjVkLThlZjYtNzkyMDNkYzNkZjhiIiwic2N5IjoiYXV0byIsImFkZCI6IjE4NS4xNDYuMTczLjIzNyIsInBhdGgiOiJcL0BtZWhyb3NhYm9yYW4iLCJwcyI6IiU0MHZwbnN0b3JlZmFzdCJ9
-vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.26.6.64:2095?path=%2F&security=none&encryption=none&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&type=ws#@vpnstorefast
