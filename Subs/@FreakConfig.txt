@@ -1,3 +1,5 @@
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#tel+%40Freakconfig%F0%9F%87%A6%F0%9F%87%AA`
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovVTlFR1lQWCtiMzBJSy9JdHhOdytycnNra0w2c2pzMXQxMitTVVdRRlNnPQ==@18.195.51.145:8080#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig`
@@ -46,5 +48,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&encr
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?security=tls&encryption=none&alpn=h2,http/1.1&host=BiA-pAIN-bACHE.pAges.DEv&fp=randomized&type=ws&sni=BIa-pAIN-bAche.PagEs.DeV#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
