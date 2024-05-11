@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
+vless://2e5bd822-eada-4ee2-8001-f4b57ac4c8f2@138.68.96.163:26833?security=none&encryption=none&headerType=none&type=tcp#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
@@ -46,5 +48,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?path=%2F&security=
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%AB%F0%9F%87%AE
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&encryption=none&alpn=h2,http/1.1&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=randomized&type=ws&sni=BIa-PAiN-BAChe.PAGeS.dev#%40Freakconfig%F0%9F%87%AB%F0%9F%87%AE`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#telegram+%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
