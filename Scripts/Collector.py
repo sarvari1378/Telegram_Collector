@@ -3,15 +3,16 @@ from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.types import PeerChannel
 import os
 import asyncio
+import json
 
 # Replace these with your own API ID and hash
 api_id = os.environ['API_ID']
 api_hash = os.environ['API_HASH']
 
-# Read target usernames from Channel_Usernames.txt
-target_usernames_file = 'Channel_Usernames.txt'
-with open(target_usernames_file, 'r') as f:
-    target_usernames = [line.strip() for line in f.readlines() if line.strip()]
+
+# Load target usernames from JSON file
+with open('Jsons/target_usernames.json', 'r') as f:
+    target_usernames = json.load(f)['usernames']
 
 # Use a session file to store the client's authorization
 session_file = 'Session/@ssarvari1378.session'
@@ -30,8 +31,11 @@ def filter_links(input_file, output_file):
             if line:
                 filtered_lines.append(line)
 
-    # Limit the number of lines to 100
+    # Limit the number of lines to 50
     filtered_lines = filtered_lines[:50]
+
+    # Remove empty lines from the list
+    filtered_lines = [line for line in filtered_lines if line.strip()]
 
     # Create the directory if it doesn't exist
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
