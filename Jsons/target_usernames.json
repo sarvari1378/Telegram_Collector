@@ -1,3 +1,9 @@
 {
-    "usernames": ["@vpnstorefast", "@FreakConfig", "@Seyyedmt"]
-}
+    "channels": [
+      {"username": "@Freakconfig", "limit": 20},
+      {"username": "@vpnstorefast", "limit": 20},
+      {"username": "@rxv2ray", "limit": 20},
+      {"username": "@V2RAYROZ", "limit": 20},
+    ]
+  }
+  
