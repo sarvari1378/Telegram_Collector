@@ -1,3 +1,6 @@
+vless://ID--V2RAXX@185.146.173.32:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://ID--V2RAXX@v2raxx.amalfatm.ir:2052?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://ID--V2RAXX@185.146.173.146:8080?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://fbdaa9e9-451d-4bc9-9c76-242cda0c1ded@185.146.173.237:80?path=%2Frxv2ray-rxv2ray-rxv2ray-rxv2ray%3Fed%3D2048&security=none&encryption=none&host=www.iran.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&type=ws#@vpnstorefast+MTN+MCI
 vless://35f44e3a-3935-4006-adff-8c3ad122aa56@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#@vpnstorefast
 vless://23c4dd34-eb15-4847-8406-186f51ffbab3@185.146.173.82:2082?path=%2FFree+V2RAY+TEL+%40Alfred_Config+TEL+%40Alfred_Config+TEL+%40Alfred_Config+TEL+%40Alfred_Config+TEL+%40Alfred_Config+%40V2ray&security=none&encryption=none&host=%E9%98%BF%E5%B0%94%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%85%8D%E7%BD%AEVVV.%E9%98%BF%E9%98%BF%E5%B0%94%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%85%8D%E7%BD%AE.zmV2ray.site.&type=ws#@vpnstorefast
@@ -10,6 +13,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=Tel-%40V2ray
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=Tel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@vpnstorefast
 vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=Tel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#@vpnstorefast
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#@vpnstorefast
-vless://vpnowl-vpnowl-vpnowl@www.zula.ir:80/?type=ws&encryption=none&host=256.cdn.discordapp.com.%E7%8C%AB%E5%A4%B4%E9%B9%B0.www.cloudflare.com.Owl-V2ray.ahvaz1.irancell.ir.faStly.stromEctolex.cOm.&path=%2FJoin-Tele-VpnOwl%3Fed%3D2560#@vpnstorefast
-vless://599c0d41-ee7a-4223-ab15-e64491d8253a@167.114.193.41:43094?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@vpnstorefast`**
-**`vless://a852310c-bff3-4a4e-aea9-c78dba9a6fba@167.114.193.41:59079?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@vpnstorefast`**
