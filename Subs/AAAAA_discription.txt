@@ -1,1 +1,0 @@
-this is the folder to save telegram channels as @username.txt you can copy raw link of thise files and add to your client
