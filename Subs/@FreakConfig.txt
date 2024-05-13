@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZWY5akd2QXl6WExMbmpzc1JGcjhN@94.228.169.114:25663#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.154.136.218:8009#telegram+%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0`
 vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwicHMiOiJARnJlYWtjb25maWfwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -46,5 +48,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&enc
 vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@w3.org:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=api2.shabazian.ir&fp=chrome&type=ws&sni=api2.shabazian.ir#telegram+%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
 vless://0ed8ecc6-33ed-4fa8-8b50-cbe39cf0912b@95.216.177.180:10559?security=reality&encryption=none&pbk=JTt7Au4cLeKLnQfD8O-yO19nS5u2CgP3fIO1DHlej1c&headerType=none&fp=randomized&type=tcp&sni=yahoo.com&sid=c5f1f156#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#telegram+%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?security=tls&encryption=none&alpn=h2,http/1.1&host=bIA-PAIN-BacHe.pAGeS.DEV&fp=randomized&type=ws&sni=BiA-PAiN-bAcHe.PAGes.deV#telegram+%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6`
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
