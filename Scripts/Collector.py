@@ -9,9 +9,9 @@ api_id = os.environ['API_ID']
 api_hash = os.environ['API_HASH']
 
 # Read target usernames from Channel_Usernames.txt
-target_usernames_file = 'Scripts/Channel_Usernames.txt'
+target_usernames_file = 'Channel_Usernames.txt'
 with open(target_usernames_file, 'r') as f:
-    target_usernames = [line.strip() for line in f.readlines()]
+    target_usernames = [line.strip() for line in f.readlines() if line.strip()]
 
 # Use a session file to store the client's authorization
 session_file = 'Session/@ssarvari1378.session'
