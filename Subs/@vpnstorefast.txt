@@ -13,8 +13,3 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:
 vless://vpnowl-vpnowl-vpnowl@www.zula.ir:80/?type=ws&encryption=none&host=256.cdn.discordapp.com.%E7%8C%AB%E5%A4%B4%E9%B9%B0.www.cloudflare.com.Owl-V2ray.ahvaz1.irancell.ir.faStly.stromEctolex.cOm.&path=%2FJoin-Tele-VpnOwl%3Fed%3D2560#@vpnstorefast
 vless://599c0d41-ee7a-4223-ab15-e64491d8253a@167.114.193.41:43094?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@vpnstorefast`**
 **`vless://a852310c-bff3-4a4e-aea9-c78dba9a6fba@167.114.193.41:59079?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@vpnstorefast`**
-**`vless://67f140fc-896f-456d-b38b-c919367af6d9@167.114.193.41:43094?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@vpnstorefast`**
-**`vless://f16ed0dd-667e-4def-8e8d-cc62455d1515@167.114.193.41:43094?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@vpnstorefast`**
-**`vless://799f0437-536c-431e-b161-5a38187786a9@167.114.193.41:43094?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@vpnstorefast`**
-**`vless://498529e6-a575-4559-ba24-64d383a58d2f@167.114.193.41:39015?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vpnstorefast
-vless://e11b7446-7d76-42c6-844d-b5c87f0cc0ee@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=v1.AFTER-SERVeRS-Mehdi-Error-server-iran.com&type=ws#@vpnstorefast

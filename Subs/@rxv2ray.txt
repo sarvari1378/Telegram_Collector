@@ -13,8 +13,3 @@ vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@All.RxV2ray.online:2053?security=tl
 vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@All.RxV2ray.online:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@RxV2ray&sni=nl.RxV2ray.space#%40rxv2ray+%F0%9F%87%B3%F0%9F%87%B1``
 vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@All.RxV2ray.online:2053?security=tls&encryption=none&host=nm.RxV2ray.space&fp=chrome&type=ws&sni=nm.RxV2ray.space#%40rxv2ray+%F0%9F%87%A9%F0%9F%87%AA`
 vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@All.RxV2ray.online:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@RxV2ray&sni=nm.RxV2ray.space#%40rxv2ray+%F0%9F%87%A9%F0%9F%87%AA``
-vless://603f7a2c-0262-4b17-a43d-bb379e670043@All.RxV2ray.online:2053?security=tls&encryption=none&host=nl.RxV2ray.space&fp=chrome&type=ws&sni=nl.RxV2ray.space#%40rxv2ray+%F0%9F%87%B3%F0%9F%87%B1`
-vless://603f7a2c-0262-4b17-a43d-bb379e670043@All.RxV2ray.online:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@RxV2ray&sni=nl.RxV2ray.space#%40rxv2ray+%F0%9F%87%B3%F0%9F%87%B1``
-vless://603f7a2c-0262-4b17-a43d-bb379e670043@All.RxV2ray.online:2053?security=tls&encryption=none&host=nm.RxV2ray.space&fp=chrome&type=ws&sni=nm.RxV2ray.space#%40rxv2ray+%F0%9F%87%A9%F0%9F%87%AA`
-vless://603f7a2c-0262-4b17-a43d-bb379e670043@All.RxV2ray.online:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@RxV2ray&sni=nm.RxV2ray.space#%40rxv2ray+%F0%9F%87%A9%F0%9F%87%AA``
-vless://2ab13129-3443-4544-b159-29a74b3ff443@All.RxV2ray.online:2053?security=tls&encryption=none&host=nl.RxV2ray.space&fp=chrome&type=ws&sni=nl.RxV2ray.space#%40rxv2ray+%F0%9F%87%B3%F0%9F%87%B1`
