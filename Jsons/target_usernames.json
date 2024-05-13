@@ -1,9 +1,9 @@
 {
     "channels": [
-      {"username": "@FreakConfig", "limit": 20},
-      {"username": "@vpnstorefast", "limit": 20},
-      {"username": "@rxv2ray", "limit": 20},
-      {"username": "@V2RAYROZ", "limit": 20}
+      {"username": "@FreakConfig", "limit": 15},
+      {"username": "@vpnstorefast", "limit": 15},
+      {"username": "@rxv2ray", "limit": 15},
+      {"username": "@V2RAYROZ", "limit": 15}
     ]
   }
   
