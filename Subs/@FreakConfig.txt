@@ -1,3 +1,5 @@
+vless://17fafaf9-7402-40eb-87ae-a75944c84c52@zula.ir:8443?path=%2F%3Fed&security=tls&encryption=none&host=ggho.pages.dev.&fp=randomized&type=ws&sni=ggho.pages.dev.#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0
+vless://-V2RAXX-@v2raxx.amalfatm.ir:8080?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#telegram+%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#telegram+%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
@@ -11,5 +13,3 @@ vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F&securit
 vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwicHMiOiJARnJlYWtjb25maWfwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.103:8080#telegram+%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#Telegram-channel-Freakconfig+%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.66:8008#telegram+%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
