@@ -1,4 +1,5 @@
-vmess://eyJpZCI6IjYzZTU0NzQyLWEyNDQtNGJiMC1jOWNiLTE3YTU0NWY0Y2EzZiIsImZwIjoiY2hyb21lIiwicHMiOiIlNDB2cG5zdG9yZWZhc3QiLCJob3N0IjoiIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicG9ydCI6Ijg0NDMiLCJwYXRoIjoiXC8iLCJzY3kiOiIiLCJzbmkiOiIiLCJhZGQiOiJhdGxhc25ldDEubXlhdGxhc25ldC5pciJ9
+ss://Y2hhY2hhMjAtcG9seTEzMDU6eG1vMkhPNXZKYXl6RHlYUDlDc080OStyc2VCRzZEYXdvTXlJNWN4RExCST0=@188.213.128.141:443#@vpnstorefast
+vless://48870d7c-f1d8-4898-91be-e7d29cf763a8@www.speedtest.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%23FreeService&sni=ddddddddeeeEessssrrrrr.doRiashajikala.org.#@vpnstorefast
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=telgram.%40vpnAndroid2%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#@vpnstorefast
 vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@188.114.97.3:443?path=%2Ftelegram-%40vlees_v2rayng-telegram-%40vlees_v2rayng%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ariameHr-Eyq.paGES.Dev&fp=randomized&type=ws&sni=ARiAMEHr-EYQ.PAGeS.deV#@vpnstorefast
 vless://038765f6-27c5-4768-9aeb-454533cf9e39@zula.ir:80?encryption=none&security=none&type=ws&host=6995090844.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#@vpnstorefast
@@ -12,4 +13,3 @@ vless://e72dd783-2134-4dc1-8f0c-dd00c2bbc7bf@zula.ir:443?path=%2FTelegram+Join%3
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@vpnstorefast
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#@vpnstorefast
 vless://49aacdab-c9b9-4031-8e64-514e9cd72089@104.18.22.19:443?path=%2FyxHQjF7koqMwvsqH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=shAHaNShahi.pagES.deV&fp=randomized&type=ws&sni=ShahANsHahi.paGEs.Dev#@vpnstorefast
-vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&fp=random&type=ws&sni=pardazesh-tgws.pages.dev#@vpnstorefast
