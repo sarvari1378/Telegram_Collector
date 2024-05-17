@@ -1,3 +1,4 @@
+vless://472530bc-89ec-47c6-a979-c48ca937525b@zula.ir:80?encryption=none&security=none&type=ws&host=6877383484.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#@vpnstorefast
 vless://ID-V2RAXX@185.146.173.146:2095?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://ID-V2RAXX@185.146.173.32:2052?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://ID-V2RAXX@v2raxx.amalfatm.ir:8080?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
@@ -12,4 +13,3 @@ vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=telgram.%40
 vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@188.114.97.3:443?path=%2Ftelegram-%40vlees_v2rayng-telegram-%40vlees_v2rayng%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ariameHr-Eyq.paGES.Dev&fp=randomized&type=ws&sni=ARiAMEHr-EYQ.PAGeS.deV#@vpnstorefast
 vless://038765f6-27c5-4768-9aeb-454533cf9e39@zula.ir:80?encryption=none&security=none&type=ws&host=6995090844.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#@vpnstorefast
 vless://d47%35558%36-d7%37b-4%34be-%385bf%2d567%62c8e%64701%65@162.159.134.234:8080?Telegram=@vpnstorefast,@vpnstorefast&path=/&security=none&encryption=none&host=hrt%76.nu%6dall%2exyz%2e&type=ws#@vpnstorefast
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@vpnstorefast
