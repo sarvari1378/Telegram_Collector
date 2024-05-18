@@ -1,3 +1,7 @@
+vless://Telegram-V2RAXX@185.146.173.146:80?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://Telegram-V2RAXX@v2raxx.amalfatm.ir:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://Telegram-V2RAXX@185.146.173.146:2052?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://Telegram-V2RAXX@185.146.173.32:8080?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://ca1%3579b%39-af%652-4%3267-%3915f%2d49a%3395c%62314%32@104.17.169.114:80?Telegram=@vpnstorefast,@vpnstorefast&security=none&type=ws&path=/Te%6cegr%61m:@%55nli%6dite%64Dev%2dTel%65gra%6d:@U%6elim%69ted%44ev-%54ele%67ram%3a@Un%6cimi%74edD%65v&host=unl%69mit%65dde%76.xn%2d-9i%71r0t%6d1r4%77g.c%6f.&encryption=none#@vpnstorefast
 vless://09d%391bd%65-22%392-4%362c-%62a15%2d14f%33b1b%346bf%38@185.146.173.122:8080?Telegram=@vpnstorefast,@vpnstorefast&path=/Jo%69n--%56PNC%55STO%4dIZE%2eV2r%61y.r%65?ed%3d808%30&security=none&encryption=none&host=VPN%43UST%4fMIZ%45.V2%72ay.%43omm%75nit%79.&type=ws#@vpnstorefast
 vless://---Chanel---v2rayNGcloud---@185.146.173.122:80?path=%2F%40v2rayNGcloud-%40v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#@vpnstorefast
@@ -9,7 +13,3 @@ vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=TELEGRAM-%4
 vless://472530bc-89ec-47c6-a979-c48ca937525b@zula.ir:80?encryption=none&security=none&type=ws&host=6877383484.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#@vpnstorefast
 vless://ID-V2RAXX@185.146.173.146:2095?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://ID-V2RAXX@185.146.173.32:2052?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
-vless://ID-V2RAXX@v2raxx.amalfatm.ir:8080?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
-vless://ID-V2RAXX@185.146.173.146:80?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=mmdv2.pages.dev#@vpnstorefast
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@bi4qqdb9ms.cloudflare-gateway.com:443?type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&security=tls&fp=random&sni=mmdv2.pages.dev#@vpnstorefast
