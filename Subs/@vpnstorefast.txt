@@ -1,3 +1,4 @@
+vless://73f80564-c971-447f-bd42-78c396346a11@188.114.99.99:8080/?type=ws&path=%2Fnewproxy-newproxy-newproxy-newproxy-newproxy&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.&security=none#@vpnstorefast
 vless://472530bc-89ec-47c6-a979-c48ca937525b@zula.ir:80?encryption=none&security=none&type=ws&host=6877383484.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#@vpnstorefast
 vless://Telegram-V2RAXX@185.146.173.146:80?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://Telegram-V2RAXX@v2raxx.amalfatm.ir:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
@@ -12,4 +13,3 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=TELEGRAM_%4
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=TELEGRAM-%40vlees_v2rayng%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@vpnstorefast
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=TELEGRAM-%40vlees_v2rayng%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#@vpnstorefast
 vless://472530bc-89ec-47c6-a979-c48ca937525b@zula.ir:80?encryption=none&security=none&type=ws&host=6877383484.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#@vpnstorefast
-vless://ID-V2RAXX@185.146.173.146:2095?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
