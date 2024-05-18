@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#%F0%9F%87%B8%F0%9F%87%AC%40Freakconfig`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#telegram+%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#telegram+%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7`
 vless://5184b87c-8537-41d6-be54-5027c8432d50@172.67.185.196:443?path=%2Ftelegram-proxy_mtm%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PARvIzsABETI.paGeS.DEv&fp=randomized&type=ws&sni=paRVIZsabEti.pAgeS.dEV#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AA
@@ -12,4 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6V1E4YnVQNkxtUmJRR2FDb09KcjB1@172.233.56.110
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram-Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#telegram+%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7`
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.81:5003#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
