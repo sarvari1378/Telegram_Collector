@@ -1,3 +1,5 @@
+vless://TELEGRAM---v2rayNGcloud@visa.com:80?path=%2F%40v2rayNGcloud-%40v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#@vpnstorefast
+vless://TELEGRAM---v2rayNGcloud@104.25.115.232:80?path=%2F%40v2rayNGcloud-%40v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#@vpnstorefast
 vless://⚡V2RAXX⚡@185.146.173.146:80?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://⚡V2RAXX⚡@185.146.173.32:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://⚡V2RAXX⚡%40v2raxx.amalfatm.ir:2052?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
@@ -11,5 +13,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?path=%2FIkR3JyNSfj
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#@vpnstorefast
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#@vpnstorefast
 vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#@vpnstorefast
-vmess://eyJwb3J0IjoiMTIwNzciLCJuZXQiOiJ0Y3AiLCJwcyI6IiU0MHZwbnN0b3JlZmFzdCIsImlkIjoiOTliZjRmZTctZjNiZi00NmI0LTliNDktNzk2MGM1NGFkMTlkIiwic2N5IjoiYXV0byIsImFkZCI6IjE4OC43NS45Mi4xMDciLCJob3N0IjoiIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiXC8ifQ==
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@vpnstorefast
