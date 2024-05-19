@@ -4,8 +4,8 @@ import asyncio
 import json
 
 # Replace these with your own API ID and hash
-api_id = os.environ['API_ID']
-api_hash = os.environ['API_HASH']
+api_id = '26963557'
+api_hash = '70aed19a29d2321933d9c4f652534c0f'
 session_file = 'Session/@ssarvari1378.session'
 
 # Load target usernames and limits from JSON file
