@@ -1,3 +1,5 @@
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#TEELEGRAM-Freakconfig
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#TEELEGRAM-Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 vless://DiGIV2rAY@185.146.173.22:2095?security=none&encryption=none&host=DigiV2ray---__---DIGI.radiotehran.org.&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
 vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org#%40Freakconfig
 vmess://eyJhZGQiOiIxNDEuOTguMTY4LjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm13LmNvbSIsImlkIjoiMzEzMDUyMWEtMmZkNC00MmM2LTkxNzktZGNmNDMzYTZkMzk4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoiQEZyZWFrY29uZmln8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -11,5 +13,3 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?security=none&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#telegram+%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#telegram+%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@49.13.69.46:35689?mode=gun&security=reality&encryption=none&authority=&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=11b12101#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#%F0%9F%87%B8%F0%9F%87%AC%40Freakconfig
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+Freakconfig%F0%9F%87%A9%F0%9F%87%AA%40
