@@ -1,3 +1,5 @@
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
+vless://80bed5cd-8166-4ede-89ee-709443eb6a30@188.114.97.3:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#telegram+%40Freakconfig%F0%9F%87%A6%F0%9F%87%AA
 vless://63ce0cb0-ad12-4916-9b79-7116b19975cb@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#TEELEGRAM-Freakconfig
@@ -11,5 +13,3 @@ ss://YWVzLTI1Ni1nY206M3ZnVU1qNlRhM3ZNc2NYUTBYWmdCcQ==@147.45.75.246:36619#%40Fre
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.132.8.150:443#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.175.76.93:443#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#telegram+%40Freakconfig
