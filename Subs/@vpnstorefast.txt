@@ -1,3 +1,7 @@
+vless://jon--V2RAXX⚡@185.146.173.146:80?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://jon--V2RAXX⚡@185.146.173.146:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://jon--V2RAXX⚡@185.146.173.146:2052?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
+vless://jon--V2RAXX⚡@185.146.173.146:8080?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://Telegram---V2rayNGcloud---@185.146.173.237:80?path=%2F%40v2rayNGcloud-%40v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#@vpnstorefast
 vless://Telegram---V2rayNGcloud---@visa.com:80?path=%2F%%40v2rayNGcloud-%40v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#@vpnstorefast
 vless://TELEGRAM---V2rayNGcloud---@188.114.98.224:80?path=%2F%40v2rayNGcloud-%40v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#@vpnstorefast
@@ -9,7 +13,3 @@ vless://Parsashonam-77@www.visa.com:8080?path=%2F&security=none&encryption=none&
 vless://Parsashonam-77@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#@vpnstorefast
 vless://Parsashonam-73@www.visa.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#@vpnstorefast
 vless://Parsashonam-73@190.93.247.155:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#@vpnstorefast
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%3Fed%3D2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#@vpnstorefast
-vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#@vpnstorefast
-vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#@vpnstorefast
-vless://301e8b02-676b-46ea-bb6c-40f8d0412ba0@188.114.96.3:443?path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&security=tls&encryption=none&host=v2ray1ng.pages.dev&fp=randomized&type=ws&sni=v2ray1ng.pages.dev#@vpnstorefast
