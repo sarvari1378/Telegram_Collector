@@ -1,3 +1,8 @@
+vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?security=tls&encryption=none&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org#%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?security=tls&encryption=none&alpn=h2,http/1.1&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&fp=randomized&type=ws&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
+vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=ArIAmehR-447.PAgES.Dev&fp=randomized&type=ws&sni=ariAmEhr-447.PaGes.dEV#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
+vless://698e1d97-0594-481d-8d97-f5f6f46aa32d@199.232.193.57:80?path=ViraV2ray%2F%3Fed%3D2560&security=none&encryption=none&host=virav2ray-alsjddhkasdasdkaslj.com&type=ws#%40Freakconfig%F0%9F%87%AB%F0%9F%87%AE
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODFtNTVOYndKL1haNlV1TkdwUktNTmFKVEFiR1IyOWhkTGwrZmg3M0g4PQ==@3.78.185.192:8080#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
@@ -8,8 +13,3 @@ vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U1VqZkhkelEzYnlJTnZTeDZRdlBhdmRsTDJoZG5OY1BCTUxWMzNJZVJvPQ==@18.156.162.133:8080#%40Freakconfig%F0%9F%87%B2%F0%9F%87%AB
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.111:6679#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#telegram+%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
-vless://80bed5cd-8166-4ede-89ee-709443eb6a30@188.114.97.3:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#telegram+%40Freakconfig%F0%9F%87%A6%F0%9F%87%AA
-vless://63ce0cb0-ad12-4916-9b79-7116b19975cb@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#TEELEGRAM-Freakconfig
