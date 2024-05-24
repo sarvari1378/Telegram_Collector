@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODFtNTVOYndKL1haNlV1TkdwUktNTmFKVEFiR1IyOWhkTGwrZmg3M0g4PQ==@3.78.185.192:8080#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
 ss://YWVzLTI1Ni1nY206M3ZnVU1qNlRhM3ZNc2NYUTBYWmdCcQ==@147.45.75.246:36619#%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
@@ -11,5 +13,3 @@ vless://80bed5cd-8166-4ede-89ee-709443eb6a30@188.114.97.3:80?path=%2F%2Ftelegram
 vless://63ce0cb0-ad12-4916-9b79-7116b19975cb@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#TEELEGRAM-Freakconfig
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#TEELEGRAM-Freakconfig%F0%9F%87%AC%F0%9F%87%A7
-vless://DiGIV2rAY@185.146.173.22:2095?security=none&encryption=none&host=DigiV2ray---__---DIGI.radiotehran.org.&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
