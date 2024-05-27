@@ -1,3 +1,11 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=jAviDSHAH-ArIamEhR.PageS.deV&fp=randomized&type=ws&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV#telegram-Freakconfig%F0%9F%87%B5%F0%9F%87%BE
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@104.21.16.33:443?security=tls&encryption=none&alpn=h2,http/1.1&host=kiNGoFIRaN.paGeS.deV&fp=randomized&type=ws&sni=kingofIRAn.PaGEs.deV#%40Freakconfig
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#telegram+%40Freakconfig
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=%2F&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#%40Freakconfig
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#%40Freakconfig
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#telegram+%40Freakconfig
 vless://dc2fd4cc-0d8a-4410-bdcd-1a41b3bbde85@185.146.173.58:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%40Freakconfig
@@ -5,11 +13,3 @@ vmess://eyJhZGQiOiIxMDQuMjYuNi42NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=ArIAmehR-447.PAgES.Dev&fp=randomized&type=ws&sni=ariAmEhr-447.PaGes.dEV#telegram+%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
-vless://e2643e1a-d75d-4749-96f7-c14df559afa5@zula.ir:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e2643e1a-d75d-4749-96f7-c14df559afa5@185.146.173.58:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e2643e1a-d75d-4749-96f7-c14df559afa5@check-host.net:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e2643e1a-d75d-4749-96f7-c14df559afa5@188.114.96.3:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://e2643e1a-d75d-4749-96f7-c14df559afa5@discord.com:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://0c052229-289f-4ac5-a29e-abb91f7da5d9@188.121.119.39:443?path=%2F&security=none&encryption=none&type=ws#telegram-Freakconfig%F0%9F%87%A9%F0%9F%87%AA
