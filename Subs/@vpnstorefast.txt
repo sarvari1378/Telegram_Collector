@@ -1,3 +1,4 @@
+vless://539d6b83-e246-4bc1-b65b-5c2ef4dde2b3@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=xheykhv2ray.savteamfree.com.#@vpnstorefast
 vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg27.pages.dev&type=ws&sni=pardazeshvpn-tg27.pages.dev#@vpnstorefast
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#@vpnstorefast
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@vpnstorefast
@@ -12,4 +13,3 @@ vless://f8eb3954-ccfa-429b-b948-62e5d829c5ad@185.146.173.146:80?path=%40V2RAXX-%
 vless://97aa561b-68e0-4f66-afa3-c764d8306e83@185.146.173.146:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://4bf7acbf-fad8-4753-8e0c-80889079be91@185.146.173.146:2052?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
 vless://0f8a575f-cdf5-4ce8-9d7e-898c7b9935b9@185.146.173.146:8080?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
-vless://c72ce5a5-6419-4356-82d3-440fdf3136b1@104.17.169.114:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#@vpnstorefast
