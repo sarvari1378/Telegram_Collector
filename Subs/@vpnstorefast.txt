@@ -1,3 +1,4 @@
+vless://e7ed4a9f-c9fb-40e9-a6c8-b951e1cfb789@dlv288.vip784.com:51760?type=tcp&headerType=http&host=varzesh3.ir&security=none#@vpnstorefast
 vless://0df3a450-1cde-44ef-b969-b2993e8ee455@185.146.173.58:80/?type=ws&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D2048&host=2.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&security=none#@vpnstorefast
 vless://85aa27e5-8aed-4b83-a447-2714858c1bd2@91.107.175.193:443?type=tcp&security=reality&pbk=pn6ftnZq6diZMdi3m1pfrbn9onjRQUicQa3sugHellQ&fp=firefox&sni=m05r3bf1t7.execute-api.eu-west-1.amazonaws.com&sid=934e52ce&spx=%2F#@vpnstorefast
 vless://d3f83bb5-7510-4f7b-ab87-7dea180010f7@64.226.96.56:2024?security=none&encryption=none&headerType=none&type=tcp#@vpnstorefast+200gig
@@ -12,4 +13,3 @@ vless://e99f0a68-22ba-4753-b0cd-e4a73aebd40b@185.146.173.58:2095?path=%2Ftelegra
 vless://996cda7b-1c54-4320-922b-8e5cd1894171@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=5698852148.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#@vpnstorefast
 vmess://eyJuZXQiOiJncnBjIiwidGxzIjoidGxzIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsInBhdGgiOiIiLCJwcyI6IiU0MHZwbnN0b3JlZmFzdCIsImFkZCI6IjEwNC4xOC4xMTguMTgwIiwic25pIjoiZC5vZ2hhYmJhcmJvZG5hemFuaW5mcm9zaGlrYWJhaG9rYWJ5b2tzb25hbC5zcGFjZSIsImhvc3QiOiIiLCJ0eXBlIjoiZ3VuIiwiaWQiOiIyYTMyNjNlMi04OTFjLTQ0NDYtYjQ3NC1hOGM2M2FjYjZlMjUiLCJzY3kiOiJhdXRvIiwicG9ydCI6IjIwODcifQ==
 vless://0e3fc469-0ec4-41a4-8ae8-792f7cddb12e@91.231.182.165:36898?security=none&encryption=none&headerType=none&type=tcp#@vpnstorefast
-vless://f8eb3954-ccfa-429b-b948-62e5d829c5ad@185.146.173.146:80?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@vpnstorefast
