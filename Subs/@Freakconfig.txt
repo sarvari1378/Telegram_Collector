@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OUppYXRCSXk4Z2FBV1RCTHc1ZFZocWhBUTY5bkJDRFdNTSt5S3p4NGQwPQ==@52.59.206.76:8080#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%40Freakconfig
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%40Freakconfig
 vless://-VPNCUSTOMIZE-@188.114.98.224:8080?security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%40Freakconfig
@@ -8,8 +13,3 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F&securit
 vless://76d43f2c-6f0c-4c58-8358-37d9fe56352a@212.33.206.95:8099?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Freakconfig
 vless://381eb2e9-e18a-4f50-93b7-96965a36b7ad@172.67.204.39:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#Telegram+%40Freakconfig
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#TELEGRAM-Freakconfig
-vless://-VPNCUSTOMIZE-@vpncustomize.elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#telegram-Freakconfig
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#Telegram-Freakconfig
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#telegram+%40Freakconfig
