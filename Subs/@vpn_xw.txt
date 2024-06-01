@@ -1,5 +1,6 @@
-vless://vpn-xw-golden-eagle@104.19.80.162:80?path=%2FV2ray%2F%3Fed%3D1024&security=none&encryption=none&host=%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.vpnxw.eu.org.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%E2%80%A0NL
-vless://vpn-xw-golden-eagle@104.16.106.177:80?path=%2FV2ray%2F%3Fed%3D1024&security=none&encryption=none&host=xn--1ug4145pija8k.vpnxw.eu.org.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%E2%80%A0NL
+vless://vpn-xw-golden-eagle@104.19.80.162:80?path=%2FV2ray%2F%3Fed%3D1024&security=none&encryption=none&host=%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.vpnxw.eu.org.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%E2%80%A0NL%C2%B9
+vless://vpn-xw-golden-eagle@172.67.67.202:80?path=%2FV2ray%2F%3Fed%3D1024&security=none&encryption=none&host=xn--1ug4145pija8k.vpnxw.eu.org.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%E2%80%A0NL%C2%B2
+vless://vpn-xw-golden-eagle-bro@164.38.155.111:80?path=%2Feagle&security=none&encryption=none&host=xn--fhqp60d.vpnxw.eu.org.&type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%E2%80%A0NL%C2%B3
 vmess://eyJhZGQiOiIxNzIuMjMzLjE2NC4zMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0MjQyZDc0ZC1iNzQ4LTRlNzQtYTdjMi0yYmZiOWQ2ZWQxMjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM5ODQxIiwicHMiOiJTcGVlZCBAczAwMTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwicHMiOiJsb3cgUGluZzIgQHMwMDEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%94%92+s0013
@@ -12,4 +13,3 @@ vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?path=%2F%3Fed%3D
 vless://R4D@94.130.109.163:443?mode=gun&security=reality&encryption=none&authority=&pbk=5i0MySa9-gIBPyHSJ-jVDxpOSRnXqtXc9ZsalSaa-Hk&fp=chrome&spx=%2F&type=grpc&serviceName=%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw-Telegram%3A%40vpn_xw&sni=wordpress.org#%F0%9F%87%A9%F0%9F%87%AAVPN-XW
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5d@172.67.20.220:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vpn-xw.pages.dev&type=ws&sni=vpn-xw.pages.dev#VPN-XW%F0%9F%87%A9%F0%9F%87%AA
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@ja.vivacello.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xw.r4d.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAVPN-XW%28%F0%9F%94%B5%29
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@45.80.111.10:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xw.r4d.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAVPN-XW%28%F0%9F%9F%A1%29
