@@ -1,3 +1,4 @@
+vless://f7724417-bdb4-4034-ea9c-869d3ab56305@zerov2shop.zershop.ir:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=zerov2shop.zershop.ir&fp=randomized&type=ws&sni=zerov2shop.zershop.ir#@vpnstorefast
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=Telegram%40vlees_v2rayng%2F%3Fed%3D2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&type=ws&sni=turkmenistan.armanibash.Shop.#@vpnstorefast
 vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?path=%40vlees_v2rayng%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#@vpnstorefast
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2Ftelegram-%40vlees_v2rayng%3Fed%3D2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#@vpnstorefast
@@ -12,4 +13,3 @@ vless://V2RAXX@185.146.173.94:2052?type=ws&host=xn--047h.v2raxx6.shop.&path=/%40
 vless://V2RAXX@v2raxx.amalfatm.ir:8080?type=ws&host=xn--047h.v2raxx6.shop.&path=/%40V2RAXX-%40V2RAXX?ed%3D2048&security=none#@vpnstorefast
 vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@zula.ir:8080?host=ch2.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#@vpnstorefast+all
 vless://c954141f-1622-4837-97e7-c4e4e05c48c5@ch2.melobigg.site:443?type=ws&path=%2Fmelov2ray&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=ch2.melobigg.site#@vpnstorefast+all
-vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@discord.com:8080?type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&host=de2.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&security=none#@vpnstorefast+mci
