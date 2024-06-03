@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#%40Freakconfig
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://de837bd2-0abb-438d-87a2-0649d0703579@80.75.213.62:5016?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%40Freakconfig
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@b2n.ir:443?security=tls&encryption=none&alpn=http/1.1&host=who-doesnt-care.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-doesnt-care.BacheBiaPain.IR#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
@@ -11,5 +13,3 @@ vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?security=tls&encryp
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@b2n.ir:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=who-doesnt-care.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-doesnt-care.BacheBiaPain.IR#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@b2n.ir:443?security=tls&encryption=none&alpn=http/1.1&host=who-doesnt-care.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-doesnt-care.BacheBiaPain.IR#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&encryption=none&host=who-cares.BacheBiaPain.IR&type=ws&sni=who-cares.BacheBiaPain.IR#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
-vmess://eyJhZGQiOiIxODguMTE0Ljk5LjE4MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ijbwn4ep8J+HqkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
