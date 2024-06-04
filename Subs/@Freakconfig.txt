@@ -1,3 +1,7 @@
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.119.3:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
+vless://9b86e0b6-7820-4e17-a70e-22cd2a0d8ec9@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40Freakconfig
+vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkRlMS52bWVzcy5zaXRlLiIsImlkIjoiYjI1ZjhkYTYtNTRhMi00OWIzLWJhY2YtODQwM2I0YzM2NTU2IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#%40Freakconfig
@@ -9,7 +13,3 @@ vmess://eyJhZGQiOiIxOTAuOTMuMjQ3LjE1NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig+%F0%9F%87%A9%F0%9F%87%AA
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&type=ws&sni=turkmenistan.armanibash.Shop.#%40Freakconfig%F0%9F%87%AE%F0%9F%87%B9
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig+%F0%9F%87%A9%F0%9F%87%AA
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
-vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#%40Freakconfig
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
-vless://de837bd2-0abb-438d-87a2-0649d0703579@80.75.213.62:5016?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%40Freakconfig
