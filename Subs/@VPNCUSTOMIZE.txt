@@ -1,3 +1,5 @@
+vless://1cfc04b9-7a82-482c-a5c8-66840d231a8c@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
+vless://1cfc04b9-7a82-482c-a5c8-66840d231a8c@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://VPNCUSTOMiZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
 vless://VPNCUSTOMiZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://telegram-VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
@@ -11,5 +13,3 @@ vless://-_VPNCUSTOMIZE_-@www.kellekcollection.com:443?mode=gun&security=tls&encr
 vless://-_VPNCUSTOMIZE_-@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://join-VPNCUSTOMIZE@Join--VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
 vless://join-VPNCUSTOMIZE@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#@MCI VPNCUSTOMIZE
-vless://join-VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
-vless://_VPNCUSTOMIZE_@Join--VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
