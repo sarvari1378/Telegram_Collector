@@ -1,3 +1,5 @@
+vless://5f521f02-8847-4a44-a909-3f084a21f944@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
+vless://5f521f02-8847-4a44-a909-3f084a21f944@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://394ba9c8-0fbb-458e-adde-91faa95015d0@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
 vless://394ba9c8-0fbb-458e-adde-91faa95015d0@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://1cfc04b9-7a82-482c-a5c8-66840d231a8c@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
@@ -11,5 +13,3 @@ vless://VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fe
 vless://ff49a775-a816-4d46-b07c-30645642e5e2@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
 vless://ff49a775-a816-4d46-b07c-30645642e5e2@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://-_VPNCUSTOMIZE_-@Join-VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MTN @VPNCUSTOMIZE
-vless://-_VPNCUSTOMIZE_-@www.kellekcollection.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=@VPNCUSTOMIZE&sni=VPNCUSTOMIZE.kellekcollection.com#MCI @VPNCUSTOMIZE
-vless://-_VPNCUSTOMIZE_-@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
