@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#telegram+%40Freakconfig
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=maNSor427-pANel2.PAgES.DeV&fp=randomized&type=ws&sni=MaNsor427-pANeL2.PAGeS.dEV#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.186:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://9b86e0b6-7820-4e17-a70e-22cd2a0d8ec9@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40Freakconfig
@@ -11,5 +13,3 @@ vless://9b86e0b6-7820-4e17-a70e-22cd2a0d8ec9@185.146.173.58:8080?path=%2F&securi
 vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkRlMS52bWVzcy5zaXRlLiIsImlkIjoiYjI1ZjhkYTYtNTRhMi00OWIzLWJhY2YtODQwM2I0YzM2NTU2IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
-vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#%40Freakconfig
