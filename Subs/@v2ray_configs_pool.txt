@@ -1,15 +1,15 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:3306#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWFE3NnFaRGhYcWJEMHN5RVV0RjNX@77.83.246.74:33320#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZTJvZ1NaTDd0NXduNTNqTTJtSzNm@81.19.141.45:52873#👉🆔 @v2ray_configs_pool
+vless://7c55545d-8039-4ffa-9baf-15c6ee631d72@LIGHTNING6-joinbed.piokio.ir:2087?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=LiV2raye.yoyoyo.ir.&fp=chrome&type=ws&sni=LiV2raye.yoyoyo.ir#👉🆔 @v2ray_configs_pool
+vless://26607fa4-4fdf-486f-8098-272e8f3ab674@LIGHTNING6-joinbed.filj.top:8880?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&security=none&encryption=none&host=LiV2raye.lightningz.ir.&type=ws#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YXZtUHFNMmx6d2ZWYW5rbEN2WEx4@167.99.216.236:50250/?outline=1#👉🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVXJENEZ6bER5ejBEUHV0VzIyTFBW@paris.telegavpn.com:9802#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool
-vless://af309ad2-c943-48ea-b570-2e51a2f079d9@172.67.142.75:80?security=none&type=ws&path=/DSDaswd22&#👉🆔 @v2ray_configs_pool
-vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=%2FZYgm9Gg9QBkAXfbG%3Fed%3D2560&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#👉🆔 @v2ray_configs_pool
-vless://35596745-6e68-4752-8ce4-a971d8d880ca@5.160.157.232:11419?security=none&type=tcp#👉🆔 @v2ray_configs_pool
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.31:8443?security=tls&sni=kk005.ylks.link&type=ws&path=/blue#👉🆔 @v2ray_configs_pool
-vless://cacbaab-abca-baac-cdab-cbcabcbbcaaa@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.31:8443?security=tls&sni=kk005.ylks.link&type=ws&path=/blue#👉🆔 @v2ray_configs_pool
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.4.237:2083?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#👉🆔 @v2ray_configs_pool
-vless://af309ad2-c943-48ea-b570-2e51a2f079d9@172.67.142.75:80?security=none&type=ws&path=/DSDaswd22!11*fdfm55247.COM.#👉🆔 @v2ray_configs_pool
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.16:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#👉🆔 @v2ray_configs_pool
+vless://7c55545d-8039-4ffa-9baf-15c6ee631d72@LIGHTNING6-joinbed.piokio.ir:2087?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=LiV2raye.yoyoyo.ir.&fp=chrome&type=ws&sni=LiV2raye.yoyoyo.ir#👉🆔 @v2ray_configs_pool
+vless://26607fa4-4fdf-486f-8098-272e8f3ab674@LIGHTNING6-joinbed.filj.top:8880?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&security=none&encryption=none&host=LiV2raye.lightningz.ir.&type=ws#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQkkzUjVzQnBURU5DRVBoTWtadjE4@outline.de.outlinekeys.net:20888#👉🆔 @v2ray_configs_pool
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.68.38:80/?type=ws&encryption=none&host=ada57.cwvgq.com&path=%2Fusers%3Fed%3D2048#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTI5LjE0Ni4yNDcuMTM1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxNzczYjIyNi0wYmRiLTQzYzUtODdkOC0yNzBkMjYyMTFkZGEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQyNTk4IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+vmess://eyJhZGQiOiAiMjMuMjYuOTguMTIwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhOTc1M2NiZC04ZTM0LTQ5YzUtYmU1MC1jNGRiZjU1ZTJhMTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjk5OCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+vmess://eyJhZGQiOiAiMTQ5LjI4LjIyOC4yMTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4NjViYzQzLWIxMjktNDQzZS1kMDBhLTdkMzAzYjI1YzRhMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIxOTUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+vless://dc4b5be4-bec4-4524-8cf7-d4697dc15e57@[2a01:4f8:c013:13bd:c6::1]:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lastsecond.ir&alpn=http%2F1.1&fp=chrome&security=reality&pbk=g_QJhg-HmZB72GG49bcJkg0c0ZOixLMCmvZnJhFoaUA&sid=456d9a391ac248#👉🆔 @v2ray_configs_pool
