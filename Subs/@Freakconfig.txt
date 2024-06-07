@@ -1,3 +1,6 @@
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=%2Fhttp&security=none&encryption=none&host=ca.vpnbase.net&type=ws#telegram+%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@104.17.147.22:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&type=ws&sni=turkmenistan.armanibash.Shop.#%40Freakconfig%F0%9F%87%AE%F0%9F%87%B9
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.240.120:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.145.150:443?security=tls&encryption=none&alpn=h2,http/1.1&host=b458Ab02.caA-chaNEl-WOrkeR-page-fReE-JHuiHnuJHphjKL-nIHGKjN.pAGes.DeV&fp=randomized&type=ws&sni=b458Ab02.CaA-chanel-WOrker-Page-freE-JhuihnujHphjKl-niHgKJn.pAgES.dEV#%40Freakconfig
@@ -10,6 +13,3 @@ vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encr
 vless://c5f96dbd-e2ec-421e-b39d-c0476b39184b@104.24.191.251:80?security=none&encryption=none&host=svhw2T7k8xn5DtsCw3sr.bAle.bIO&type=ws#%40Freakconfig
 vmess://eyJhZGQiOiIxNzIuNjcuMTcxLjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJObzEudm1lc3Muc2l0ZS4iLCJpZCI6IjEwYzU4MGU0LWY4M2ItNDJmMS04ZTZhLTI1ZmM4YWRkNGRhNyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#telegram+%40Freakconfig
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=maNSor427-pANel2.PAgES.DeV&fp=randomized&type=ws&sni=MaNsor427-pANeL2.PAGeS.dEV#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.186:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
