@@ -1,3 +1,8 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=vIeEZEr-PaNeL.PAGes.dev&fp=randomized&type=ws&sni=viEEzer-pANeL.paGES.DEv#TEELEGRAM+%40Freakconfig
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#Telegram-Freakconfig
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=vIeEZEr-PaNeL.PAGes.dev&fp=randomized&type=ws&sni=viEEzer-pANeL.paGES.DEv#TEELEGRAM+%40Freakconfig
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#telegram+%40Freakconfig
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#Telegram-channel-Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=vIeEZEr-PaNeL.PAGes.dev&fp=randomized&type=ws&sni=viEEzer-pANeL.paGES.DEv#TEELEGRAM+%40Freakconfig
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&type=ws&sni=turkmenistan.armanibash.Shop.#telegram+%40Freakconfig%F0%9F%87%A9%F0%9F%87%AA
 vless://8dd54a54-eb72-4b3a-970c-cb819dbdc3fb@188.114.96.3:443?security=tls&encryption=none&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
@@ -8,8 +13,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&encry
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=%2Fhttp&security=none&encryption=none&host=ca.vpnbase.net&type=ws#telegram+%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@104.17.147.22:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&type=ws&sni=turkmenistan.armanibash.Shop.#%40Freakconfig%F0%9F%87%AE%F0%9F%87%B9
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.240.120:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.145.150:443?security=tls&encryption=none&alpn=h2,http/1.1&host=b458Ab02.caA-chaNEl-WOrkeR-page-fReE-JHuiHnuJHphjKL-nIHGKjN.pAGes.DeV&fp=randomized&type=ws&sni=b458Ab02.CaA-chanel-WOrker-Page-freE-JhuihnujHphjKl-niHgKJn.pAgES.dEV#%40Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.230.219:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#%40Freakconfig
