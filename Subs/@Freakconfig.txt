@@ -1,3 +1,5 @@
+vless://d4aef180-4bc9-4751-9d1f-59d8a9fccdef@188.114.97.141:2052?path=%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#telegram+%40Freakconfig
+vless://d4aef180-4bc9-4751-9d1f-59d8a9fccdef@185.146.173.58:2052?security=none&encryption=none&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#telegram+%40Freakconfig
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.31.105:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig%F0%9F%87%B5%F0%9F%87%BE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#%40Freakconfig
@@ -11,5 +13,3 @@ vless://SVNTEAM@104.19.255.51:80?path=%2FSVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#%40Freakconfig
 vless://SVNTEAM@104.19.255.51:80?path=%2FSVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%3Fed%3D2048&security=none&encryption=none&host=HG2.xn--kkraaaaaaaaaaa.CoM.&type=ws#%40Freakconfig
 vless://SVNTEAM@104.19.255.51:80?path=%2FSVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%3Fed%3D2048&security=none&encryption=none&host=HG2.xn--kkraaaaaaaaaaa.CoM.&type=ws#%40Freakconfig
-vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%40Freakconfig%F0%9F%87%AB%F0%9F%87%B7
