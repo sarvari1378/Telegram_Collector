@@ -1,3 +1,6 @@
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
+vless://6569e803-911c-4e75-bb02-989d4e590479@77.221.157.119:2053?mode=gun&security=reality&encryption=none&authority=&pbk=_x1sYDOy53O_QSG0mPPqZ-RXEuNmtpIjRmbyOUAclmM&fp=chrome&type=grpc&serviceName=&sni=zula.ir&sid=fcee954a#%40Freakconfig
 vless://d4aef180-4bc9-4751-9d1f-59d8a9fccdef@188.114.97.141:2052?path=%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#telegram+%40Freakconfig
 vless://d4aef180-4bc9-4751-9d1f-59d8a9fccdef@185.146.173.58:2052?security=none&encryption=none&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#telegram+%40Freakconfig
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
@@ -9,7 +12,4 @@ vmess://eyJhZGQiOiIyMTMuMTQyLjE0OS4xMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MarGbAr3FasEd.PAgEs.Dev&fp=randomized&type=ws&sni=MarGbAr3FasEd.PAgEs.Dev#telegram+%40Freakconfig
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#%40Freakconfig
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
-vless://SVNTEAM@104.19.255.51:80?path=%2FSVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%3Fed%3D2048&security=none&encryption=none&host=HG2.xn--kkraaaaaaaaaaa.CoM.&type=ws#%40Freakconfig
-vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#%40Freakconfig
-vless://SVNTEAM@104.19.255.51:80?path=%2FSVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%3Fed%3D2048&security=none&encryption=none&host=HG2.xn--kkraaaaaaaaaaa.CoM.&type=ws#%40Freakconfig
 vless://SVNTEAM@104.19.255.51:80?path=%2FSVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%2C%40SVNTEAM%3Fed%3D2048&security=none&encryption=none&host=HG2.xn--kkraaaaaaaaaaa.CoM.&type=ws#%40Freakconfig
