@@ -1,3 +1,5 @@
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-FREAKCONFIG
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.145.150:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=b458Ab02.caA-chaNEl-WOrkeR-page-fReE-JHuiHnuJHphjKL-nIHGKjN.pAGes.DeV&fp=randomized&type=ws&sni=b458Ab02.CaA-chanel-WOrker-Page-freE-JhuihnujHphjKl-niHgKJn.pAgES.dEV#%40Freakconfig
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-FREAKCONFIG
@@ -11,5 +13,3 @@ vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.104.152:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
-vless://6569e803-911c-4e75-bb02-989d4e590479@77.221.157.119:2053?mode=gun&security=reality&encryption=none&authority=&pbk=_x1sYDOy53O_QSG0mPPqZ-RXEuNmtpIjRmbyOUAclmM&fp=chrome&type=grpc&serviceName=&sni=zula.ir&sid=fcee954a#%40Freakconfig
-vless://d4aef180-4bc9-4751-9d1f-59d8a9fccdef@188.114.97.141:2052?path=%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#telegram+%40Freakconfig
