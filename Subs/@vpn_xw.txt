@@ -1,3 +1,4 @@
+vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.188.202.201:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013
 vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@44.234.140.156:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013_official
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@35.159.153.57:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013_official+super+fast
 vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTU5ZGJkYmItNmQwZi00MmY1LWI1YTktYWFlNDczNzdhNzQ2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJhcmdvIiwicG9ydCI6IjQ0MyIsInBzIjoiQXJnb1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiJkd3Bhdi5qZW1meWR0Z3YuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
@@ -12,4 +13,3 @@ vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?path=%2F&security=
 vless://2e5bd822-eada-4ee2-8001-f4b57ac4c8f2@vpn-xw.unoix.co:26833?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC-%40vpn_xw
 vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@de.unoix.co:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=vpn_xw.t.me&sni=snapppay.ir#%F0%9F%87%A9%F0%9F%87%AA+-gRPC-%40vpn_xw
 vless://31b834d8-490f-45c6-db51-753aa0814359@visa.com:8443?path=%2F&security=tls&encryption=none&host=vpn-xw.unoix.co&type=ws&sni=vpn-xw.unoix.co#%F0%9F%87%B8%F0%9F%87%AC%40vpn_xw
-vless://f3b622d4-08bb-47b4-9606-7dafd6071c73@ashburn.omega-dic.workers.dev:443?path=%2Fbs55Ovr86OzuubiHi&security=tls&encryption=none&host=ashburn.omega-dic.workers.dev&type=ws&sni=ashburn.omega-dic.workers.dev#US+%40s0013
