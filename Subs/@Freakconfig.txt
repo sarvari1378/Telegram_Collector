@@ -1,3 +1,6 @@
+vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@ns.cloudflare.com:443?security=tls&encryption=none&host=bia-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-vip-programs.hsjsak.ir#%40Freakconfig
+vless://f61e2705-1fa7-4202-9724-d8a9e4d63917@132.226.172.147:62001?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#%40Freakcoonfig
+vless://f61e2705-1fa7-4202-9724-d8a9e4d63917@132.226.172.147:62001?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.58.100:443?path=%2F&security=tls&encryption=none&host=bia-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-vip-programs.hsjsak.ir#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
@@ -10,6 +13,3 @@ vless://300ed34d-5378-4028-874d-43e1e05bc06d@188.114.96.6:443?security=tls&encry
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-FREAKCONFIG
 vless://-_VPNCUSTOMIZE_-@VPNCUSTOMIZE.Elmahstyle.ir:8080?security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#TELEGRAM-FREAKCONFIG
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#TELEGRAM-FREAKCONFIG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
