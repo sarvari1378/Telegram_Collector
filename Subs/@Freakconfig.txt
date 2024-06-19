@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#TELEGRAM-FREAKCONFIG%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#%40Freakconfig%F0%9F%87%B3%F0%9F%87%B1
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#TELEGRAM-FREAKCONFIG
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@ns.cloudflare.com:443?security=tls&encryption=none&host=bia-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-vip-programs.hsjsak.ir#%40Freakconfig
 vless://f61e2705-1fa7-4202-9724-d8a9e4d63917@132.226.172.147:62001?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#%40Freakcoonfig
 vless://f61e2705-1fa7-4202-9724-d8a9e4d63917@132.226.172.147:62001?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#%40Freakconfig
@@ -10,6 +13,3 @@ vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encr
 vless://f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MarGbAr3FasEd.PAgEs.Dev&fp=randomized&type=ws&sni=MARGbaR3fasEd.PAGes.DEv#TELEGRAM-FREAKCONFIG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig
 vless://300ed34d-5378-4028-874d-43e1e05bc06d@188.114.96.6:443?security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#%40Freakconfig
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-FREAKCONFIG
-vless://-_VPNCUSTOMIZE_-@VPNCUSTOMIZE.Elmahstyle.ir:8080?security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig
