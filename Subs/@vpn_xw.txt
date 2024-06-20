@@ -1,3 +1,5 @@
+vless://10f529f2-8c2e-4d94-b801-5783bd9d8e21@185.146.173.113:80?path=%2FV2ray%2F%3Fed%3D2048&security=none&encryption=none&host=madridws.xwdil.ir&type=ws#%40vpn_xw+%28madrid-ws%29%F0%9F%87%AA%F0%9F%87%B8
+vless://bc267e61-3431-41d2-b29b-6a8e0861cc33@madrid.xwdil.ir:443/?type=grpc&encryption=none&serviceName=Dali&sni=marca.com&fp=chrome&security=reality&pbk=CkSjKQDP5xMVdboAsHzm4LnSfRK8KB9dxoHGDkQARUM&sid=b9a19b51#%40vpn_xw%2B%7BReality-madrid%F0%9F%87%AA%F0%9F%87%B8%7D
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=%2F&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#%E2%84%A2%E2%80%A2xw+%F0%9F%87%A9%F0%9F%87%AA
 vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.188.202.201:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013
 vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@44.234.140.156:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013_official
@@ -11,5 +13,3 @@ vless://vpn-xw-golden-eagle-bro@164.38.155.111:80?path=%2Feagle&security=none&en
 vmess://eyJhZGQiOiIxNzIuMjMzLjE2NC4zMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0MjQyZDc0ZC1iNzQ4LTRlNzQtYTdjMi0yYmZiOWQ2ZWQxMjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM5ODQxIiwicHMiOiJTcGVlZCBAczAwMTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwicHMiOiJsb3cgUGluZzIgQHMwMDEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%94%92+s0013
-vless://2e5bd822-eada-4ee2-8001-f4b57ac4c8f2@vpn-xw.unoix.co:26833?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC-%40vpn_xw
-vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@de.unoix.co:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=vpn_xw.t.me&sni=snapppay.ir#%F0%9F%87%A9%F0%9F%87%AA+-gRPC-%40vpn_xw
