@@ -1,4 +1,6 @@
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=%2F&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#%40Freakconfig
+vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.55.192:80?security=none&encryption=none&host=%D8%A2%DB%8C%D8%AF%DB%8C-%DA%86%D9%86%D9%84-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%85%D8%A7V2rayGodVip%D9%87%D8%B3%D8%AA%D8%B4.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.Site.&type=ws#Telegram-channel-Freakconfig
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=%2F&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#TELEGRAM-FREAKCONFIG-FREAKCONFIG-FREAKCONFIG
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.71.246.144:8880?security=none&encryption=none&headerType=none&type=tcp#%40Freakconfig
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=%2F&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#%40Freakconfig
@@ -11,5 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?security=tls&encryption=none&alpn=h2,http/1.1&host=TESt-TEsT-TEST-TEsT.pAGes.dEV&fp=randomized&type=ws&sni=test-teSt-tEsT-teSt.pagES.DEv#TELEGRAM-FREAKCONFIG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#TELEGRAM-FREAKCONFIG%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#%40Freakconfig%F0%9F%87%B3%F0%9F%87%B1
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#TELEGRAM-FREAKCONFIG
-vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@ns.cloudflare.com:443?security=tls&encryption=none&host=bia-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-vip-programs.hsjsak.ir#%40Freakconfig
