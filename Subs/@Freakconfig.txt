@@ -1,6 +1,8 @@
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Freakconfig
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Freakconfig
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&encryption=none&alpn=h2&host=hey.bacheBiapAIN.iR&fp=randomized&type=ws&sni=heY.bACHeBiapAiN.Ir#%40Freakconfig
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=%2F&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#%40Freakconfig
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.55.192:80?security=none&encryption=none&host=%D8%A2%DB%8C%D8%AF%DB%8C-%DA%86%D9%86%D9%84-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%D9%85%D8%A7V2rayGodVip%D9%87%D8%B3%D8%AA%D8%B4.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.Site.&type=ws#Telegram-channel-Freakconfig
@@ -11,5 +13,3 @@ vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@188.212.132.20:52952#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#TELEGRAM-FREAKCONFIG
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#%40Freakconfig
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-FREAKCONFIG
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-FREAKCONFIG-FREAKCONFIG-FREAKCONFIG
