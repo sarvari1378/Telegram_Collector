@@ -1,15 +1,15 @@
-vless://1989caa2-6184-4c92-9e65-50bd6e16e8f4@37.27.181.171:8080?security=none&type=ws&path=/#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3U0gzV3MxTG1TM0lHa1Y4bEdGMDdy@167.99.216.236:50250/?outline=1#👉🆔 @v2ray_configs_pool
-vless://59f89841-648f-44b6-ae93-24839aa5a25a@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed=1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet.iMamhussaIn.sbs.#👉🆔 @v2ray_configs_pool
-vless://d6194eb4-2aaf-41ed-bb24-f68613bd0550@maz.maznet.cfd.:2083?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join20.maznet.cfd.&fp=chrome&type=ws&sni=join20.maznet.cfd#👉🆔 @v2ray_configs_pool
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.158:80?type=ws&host=kr1.175852.xyz&path=/abcde#👉🆔 @v2ray_configs_pool
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.71:80?type=ws&host=kr1.175852.xyz&path=/abcde#👉🆔 @v2ray_configs_pool
-vless://e31822be-c21b-4166-a90e-8821e02f4194@167.82.73.220:80?security=none&type=ws&host=pardazeshvpn.tg0.ir#👉🆔 @v2ray_configs_pool
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.138.234:80?type=ws&host=kr1.175852.xyz&path=/abcde#👉🆔 @v2ray_configs_pool
-vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#👉🆔 @v2ray_configs_pool
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=%2Fsrvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&fp=chrome&type=ws&sni=lmn1715683972331.lmn15534.info#👉🆔 @v2ray_configs_pool
-vless://1989caa2-6184-4c92-9e65-50bd6e16e8f4@37.27.181.171:8080?security=none&type=ws&path=/#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiMTcyLjY3LjE2MS43NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.158:80?type=ws&host=kr1.175852.xyz&path=/abcde#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiMTcyLjY0LjMyLjE1NCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyYTMyNjNlMi04OTFjLTQ0NDYtYjQ3NC1hOGM2M2FjYjZlMjUiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJkZDIxMTQ2eWdmZFNOQTkxOTEyODEyODBrZG0yMmthczIxMjNBYXdkc2QxMjM0YmI2NjQyODE2MS5iYWJldHRlY2FyaXNzYS5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImd1biIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.138.234:80?type=ws&host=kr1.175852.xyz&path=/abcde#👉🆔 @v2ray_configs_pool
+vless://e8ee4e68-b630-422b-9a30-650c0c1e768e@85.198.17.15:2052?security=none&type=tcp&host=sheypoor.com&headerType=http#👉🆔 @v2ray_configs_pool
+vless://3d66d33d-7c42-45a4-8eb6-21a554b87dcb@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzh1UUs1ZXlCTHVnU2tocFNiZ0o2@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool
+vless://f5035a2b-82ad-497a-bc8c-5185d72ea6a0@49.13.223.250:2053?security=none&type=tcp&host=www.speedtest.net&headerType=http#👉🆔 @v2ray_configs_pool
+vless://3d66d33d-7c42-45a4-8eb6-21a554b87dcb@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#👉🆔 @v2ray_configs_pool
+vless://e8ee4e68-b630-422b-9a30-650c0c1e768e@85.198.17.15:2052?security=none&type=tcp&host=sheypoor.com&headerType=http#👉🆔 @v2ray_configs_pool
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.212:80?type=ws&host=kr1.175852.xyz&path=/abcde#👉🆔 @v2ray_configs_pool
+vless://a7eb4a81-4300-46c1-a6c3-851fad9d8920@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiM2YxOTcyODAtN2IyMS00ZjM5LWI3NjMtNGJiMDA0ZTgwMjFmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#👉🆔 @v2ray_configs_pool
+vless://f5035a2b-82ad-497a-bc8c-5185d72ea6a0@49.13.223.250:2053?security=none&type=tcp&host=www.speedtest.net&headerType=http#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAic2ctZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImVjYjkwZDZlLTFiYmYtNDJlYy1hNzQyLTgyMmZhZDY5MzZkYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUkFDRVZQTiIsICJwb3J0IjogIjQ0MyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
