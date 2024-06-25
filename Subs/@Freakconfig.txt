@@ -1,3 +1,5 @@
+vless://af5a3844-2453-417d-87f6-5ce2af5fc234@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
+vless://0c088282-4099-4f54-a985-72a8f8eeb7e3@212.113.102.146:443?mode=gun&security=reality&encryption=none&authority=&pbk=Z14NuyQwLw0znnRR3eu3xd7yGDwwaBc8SGibyqQUkkM&fp=randomized&type=grpc&serviceName=%40set_v2ray&sni=discord.com&sid=aa1a1932#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maNSor427-pANel2.PAgES.DeV&fp=randomized&type=ws&sni=MaNsor427-pANeL2.PAGeS.dEV#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&encryption=none&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#telegram+%40Freakconfig
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-Freakconfig
@@ -11,5 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2Zyanp
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#TELEGRAM-Freakconfig
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
