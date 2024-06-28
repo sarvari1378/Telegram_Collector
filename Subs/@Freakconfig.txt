@@ -1,3 +1,5 @@
+vless://Parsashonam-0@104.21.19.124:8880?security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#%40Freakconfig
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?path=%2F%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#%40Freakconfig
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#Freakconfig
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#TELEGRAM-FREAKCONFIG
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
@@ -10,6 +12,4 @@ vless://3ff7d9dc-7144-442e-b4fb-740597cd3765@185.146.173.95:2095?path=%2F&securi
 vless://d3d2ae91-1a35-49d5-ac27-97abf0f66b1f@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#%40Freakconfig%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig
-vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig
