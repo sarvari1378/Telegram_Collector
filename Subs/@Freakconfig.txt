@@ -1,3 +1,5 @@
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#telegram+%40Freakconfig
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?security=tls&encryption=none&host=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV#%40Freakconfig
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#%40Freakconfig
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
@@ -11,5 +13,3 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&enc
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#TELEGRAM-FREAKCONFIG
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&fp=randomized&type=ws&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#%40Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
