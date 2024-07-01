@@ -1,4 +1,6 @@
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
+vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&encryption=none&alpn=h2,http/1.1&host=3e8B07A5.PUb000bpB.PAGes.Dev&fp=chrome&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#telegram+%40Freakconfig
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#telegram+%40Freakconfig
@@ -11,5 +13,3 @@ vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encr
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#%40Freakconfig
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.54:8443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=Eb043cc5.MKhalili.PaGes.DeV&fp=randomized&type=ws&sni=eb043CC5.mKHalilI.pAges.Dev#%40Freakconfig
-vless://6e94bfa2-e3e2-443d-ad69-d6fcfcaf14f2@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.54:2096?security=tls&encryption=none&alpn=http/1.1&host=EB043cC5.mkhAliLi.paGES.DeV&fp=randomized&type=ws&sni=EB043Cc5.MKhalILi.PAGeS.dEV#%40Freakconfig
