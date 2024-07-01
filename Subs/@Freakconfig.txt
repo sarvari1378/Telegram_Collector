@@ -1,3 +1,6 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
+vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#Freakconfig
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&encryption=none&alpn=h2,http/1.1&host=3e8B07A5.PUb000bpB.PAGes.Dev&fp=chrome&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#telegram+%40Freakconfig
 vless://db5bf306-b789-4f4a-bbd1-a9942c09f45d@free.leastping.ir:80?path=%2F&security=none&encryption=none&type=ws#%40Freakconfig
@@ -10,6 +13,3 @@ vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&encryption=none&alpn=h2,http/1.1&host=3e8B07A5.PUb000bpB.PAGes.Dev&fp=chrome&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#telegram+%40Freakconfig
 vless://f3dc958a-1f2c-4d10-b781-b2deeaabecce@www.visa.com.sg:2096?security=tls&encryption=none&host=free1.fylink.tech&type=ws&sni=free1.fylink.tech#telegram+%40Freakconfig
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&fp=chrome&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#telegram+%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?security=tls&encryption=none&host=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV#%40Freakconfig
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#telegram+%40Freakconfig
