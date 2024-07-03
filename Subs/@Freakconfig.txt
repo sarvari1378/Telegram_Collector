@@ -1,4 +1,6 @@
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#Freakconfig
@@ -11,5 +13,3 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?security=tls&enc
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#Freakconfig
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
-vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&encryption=none&alpn=h2,http/1.1&host=3e8B07A5.PUb000bpB.PAGes.Dev&fp=chrome&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#telegram+%40Freakconfig
