@@ -1,3 +1,6 @@
+vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#%40Freakconfig
+vless://b14647af-9936-41dd-b9fb-d108d7e3e405@172.67.171.43:80?security=none&encryption=none&host=Be1.vless.site.&type=ws#%40Freakconfig
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
 vless://b14647af-9936-41dd-b9fb-d108d7e3e405@172.67.171.43:80?security=none&encryption=none&host=Be1.vless.site.&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Freakconfig
@@ -9,7 +12,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=%2F&security
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
