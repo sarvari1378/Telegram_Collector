@@ -1,3 +1,7 @@
+vmess://eyJhZGQiOiJteXN3Lm1haGFub2NlYW4uaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2FjMjlmMTYtNzM0MC00Zjg5LWEzYzQtMDc4M2IwNThjZjIyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODY2NyIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
+vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#%40Freakconfig
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#%40Freakconfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?security=tls&encryption=none&alpn=h2,http/1.1&host=523AfB17.IRS23.pagES.DEv&fp=randomized&type=ws&sni=523afb17.IRS23.pAgES.Dev#%40Freakconfig
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
@@ -9,7 +13,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?path=%2F&securit
 vless://b14647af-9936-41dd-b9fb-d108d7e3e405@172.67.171.43:80?security=none&encryption=none&host=Be1.vless.site.&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=Eb043cC5.MKHAliLi.pagEs.deV&fp=randomized&type=ws&sni=eB043Cc5.mKHaLili.PAgEs.DEv#%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=%2F&security=tls&encryption=none&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#%40Freakconfig
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%40Freakconfig
