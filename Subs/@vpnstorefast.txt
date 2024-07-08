@@ -1,3 +1,7 @@
+vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://313f80f4-bcb6-4dce-a4e1-1fe7a891e0ca@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://68a415dc-450c-4e3f-bc40-7ac7f52563df@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://7810fc1e-44e6-4e3d-8494-908aa1a8427d@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://SVNTEAM@mtn.VPNPROSEC.com:80?type=ws&host=wWw.mObIlEtAk.cOm.ShOp1.qIsVn.iR.&path=/?ed%3D443&security=none#@vpnstorefast_MTN
 vless://SVNTEAM@mtn.VPNPROSEC.com:80?type=ws&host=wWw.mObIlEtAk.cOm.ShOp2.qIsVn.iR.&path=/?ed%3D443&security=none#@vpnstorefast_MTN
 vless://SVNTEAM@mtn.VPNPROSEC.com:80?type=ws&host=wWw.mObIlEtAk.cOm.ShOp3.qIsVn.iR.&path=/?ed%3D443&security=none#@vpnstorefast_MTN
@@ -9,7 +13,3 @@ vless://14bf375a-ac92-4643-b4c3-e1fa04874a81@185.146.173.58:8080?path=%2Fservern
 vless://f2bc82a7-6790-4084-9ef5-8fd8b7641d49@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://adbc546e-cbc1-45e9-9f80-7bee55390933@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=none&encryption=none&type=ws#@vpnstorefast
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?path=%2Fyuyg5ujoovohfscy%3Fed%3D2560&security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#@vpnstorefast
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=%2FTELEGRAM-%40MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#@vpnstorefast
-vless://4c91fd39-d333-4cf3-af35-f8999e46deb9@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=uk1-vless.vpnhack.xyz&type=ws#@vpnstorefast
-vless://telegram-id-ArV2ray@ArV2ray.mehpow.IR:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=firefox&type=grpc&serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&sni=5d.bahrane.IR#@vpnstorefast
