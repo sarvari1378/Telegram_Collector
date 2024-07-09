@@ -1,3 +1,7 @@
+vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://313f80f4-bcb6-4dce-a4e1-1fe7a891e0ca@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://68a415dc-450c-4e3f-bc40-7ac7f52563df@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://7810fc1e-44e6-4e3d-8494-908aa1a8427d@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@vpnstorefast
 vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.dev.cloudflare.com.mashtimji.ir.&type=ws#@vpnstorefast
 vless://SVNTEAM@mtn.VPNPROSEC.com:80?path=%2F%3Fed%3D443&security=none&encryption=none&host=wWw.mObIlEtAk.cOm.ShOp2.qIsVn.iR.&type=ws#@vpnstorefast
@@ -9,7 +13,3 @@ vless://----DIGIV2RAY---@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=n
 vless://625cbf50-ea54-481e-85d4-c02656eb5d69@www.parsvds.ir:8080?path=SHHPROXY%3Fed%3D8080&security=none&encryption=none&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&type=ws#@vpnstorefast
 vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://313f80f4-bcb6-4dce-a4e1-1fe7a891e0ca@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@vpnstorefast+MTN
-vless://68a415dc-450c-4e3f-bc40-7ac7f52563df@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#@vpnstorefast+MTN
-vless://7810fc1e-44e6-4e3d-8494-908aa1a8427d@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#@vpnstorefast+MTN
-vless://SVNTEAM@mtn.VPNPROSEC.com:80?type=ws&host=wWw.mObIlEtAk.cOm.ShOp1.qIsVn.iR.&path=/?ed%3D443&security=none#@vpnstorefast_MTN
-vless://SVNTEAM@mtn.VPNPROSEC.com:80?type=ws&host=wWw.mObIlEtAk.cOm.ShOp2.qIsVn.iR.&path=/?ed%3D443&security=none#@vpnstorefast_MTN
