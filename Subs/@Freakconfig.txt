@@ -1,3 +1,5 @@
+vless://dcc3148c-b082-4453-a785-1bb7d366d87b@94.182.223.111:57408?security=none&encryption=none&headerType=none&type=tcp#%40Freakconfig
+vless://SVNTEAMI@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=mObIlEsHoPtWo.qIsVn.iR.#%40Freakconfig
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vless://SVNTEAMa@mtn.vpnprosec.com:80?security=none&encryption=none&host=wWw.mObIlEtAk.cOm.ShOp1.qIsVn.iR.&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig
@@ -11,5 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%A6%F0%9F%87%AA+%40FreakConfig
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#%40Freakconfig
-vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?security=tls&encryption=none&alpn=h2,http/1.1&host=tEST-tesT-Test-tesT.pAgeS.DEV&fp=randomized&type=ws&sni=TeST-TESt-tEst-tESt.PagES.DEV#%40Freakconfig
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#%40Freakconfig
