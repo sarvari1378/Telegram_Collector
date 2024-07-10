@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?path=%2F&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#TELEGRAM-FREAKCONFIG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig
 vless://dcc3148c-b082-4453-a785-1bb7d366d87b@94.182.223.111:57408?security=none&encryption=none&headerType=none&type=tcp#%40Freakconfig
@@ -10,6 +12,4 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://SVNTEAMa@mtn.vpnprosec.com:80?security=none&encryption=none&host=wWw.mObIlEtAk.cOm.ShOp1.qIsVn.iR.&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig

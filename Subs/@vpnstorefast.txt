@@ -1,3 +1,7 @@
+vless://e147706e-d348-4499-873c-59ff36595e4f@172.67.16.83:443?encryption=none&security=tls&sni=xn--wgb9bb93c.pinocchio1.ir.&alpn=http%2F1.1&fp=chrome&type=grpc#@vpnstorefast
+vless://d1e2af50-01ca-4874-8f16-0f2d81bca1f8@198.41.215.201:80?encryption=none&security=none&type=ws&host=speedtest.net.xn--mgbph8e.pinocchio1.ir.&path=%2F%3Fed%3D2048#@vpnstorefast
+vless://0f675651-fd42-4b5c-a109-cb5958256801@108.162.195.205:443?encryption=none&security=tls&sni=xn--mgbph5fj.pinocchio1.ir.&alpn=http%2F1.1&fp=chrome&type=grpc#@vpnstorefast
+vless://c7ae6fef-8dbe-4b4d-8a3f-5dc563a07410@108.162.195.205:2095?encryption=none&security=none&type=ws&host=speedtest.net.xn--mgbnj4f.pinocchio1.ir.&path=%2F%3Fed%3D2048#@vpnstorefast
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=%2FDSDaswd22%2111*fdfm55247.COM.&security=none&encryption=none&host=NOxdB1.BisTaiR.orG&type=ws#@vpnstorefast
 vless://Telegram-ipV2Ray-kjo@iranserver.com:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#@vpnstorefast
 vless://5af3a353-c53f-4800-98dc-d44609ad11f2@185.146.173.200:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@vpnstorefast
@@ -9,7 +13,3 @@ vless://939b318c-4021-411f-b28c-33f89a1a49b8@www.parsvds.ir:8080?path=SHHPROXY%3
 vmess://eyJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJuZXQiOiJncnBjIiwiYWxwbiI6IiIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiZnAiOiJjaHJvbWUiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAwZmI3ODY3LTk1YWQtNGVhZi05OWYxLTIyMjU1YmViNjI1MSIsInR5cGUiOiJndW4iLCJob3N0IjoiIiwicHMiOiIlNDB2cG5zdG9yZWZhc3QifQ==
 vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://313f80f4-bcb6-4dce-a4e1-1fe7a891e0ca@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@vpnstorefast+MTN
-vless://68a415dc-450c-4e3f-bc40-7ac7f52563df@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#@vpnstorefast+MTN
-vless://7810fc1e-44e6-4e3d-8494-908aa1a8427d@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#@vpnstorefast+MTN
-vless://VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@vpnstorefast
-vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.dev.cloudflare.com.mashtimji.ir.&type=ws#@vpnstorefast
