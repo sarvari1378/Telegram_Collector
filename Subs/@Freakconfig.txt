@@ -1,3 +1,5 @@
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=%2F&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#%40Freakconfig
 vless://Telegram-ipV2Ray-xre@www.speedtest.net:80?security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#%40Freakconfig
 vless://f6ba5dd7-81b3-4c1e-be70-2a4b2c3cf1c6@172.64.143.172:80?security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#telegram+%40Freakconfig
 vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?security=tls&encryption=none&host=vip-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip-romax-tiktok.hsjsak.ir#%40Freakconfig
@@ -11,5 +13,3 @@ vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.64.155:443?path=%2F&securit
 vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?security=tls&encryption=none&host=vip-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip-romax-tiktok.hsjsak.ir#%40Freakconfig
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJARnJlYWtjb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiMVMwdGJwY3lzVFZ6S25uZmtiYXhLOG15a2FpWVloRHJIMmpZR3J2MnE1emJDekFqbC5wcm90b25peC5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?path=%2F&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#TELEGRAM-FREAKCONFIG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40Freakconfig
