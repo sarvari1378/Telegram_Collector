@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Freakconfig
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&encryption=none&host=fraud.chase&type=ws#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&encryption=none&host=fraud.chase&type=ws#Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=%2F&security=none&encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&type=ws#%40Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
@@ -11,5 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#TELEGRAM-FREAKCONFIG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#%40Freakconfig
-vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.64.155:443?path=%2F&security=tls&encryption=none&host=farm.vpn.farm.vpnbdhdjwj.sbs&type=ws&sni=www.elledecor.com#%40Freakconfig
-vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?security=tls&encryption=none&host=vip-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip-romax-tiktok.hsjsak.ir#%40Freakconfig
