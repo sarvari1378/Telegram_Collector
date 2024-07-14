@@ -1,3 +1,5 @@
+vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#%40Freakconfig
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#TELEGRAM-FREAKCONFIG
@@ -11,5 +13,3 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&encryp
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?security=none&encryption=none&host=fraud.chase&type=ws#Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=%2F&security=none&encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&type=ws#%40Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=%2F&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#%40Freakconfig
-vless://Telegram-ipV2Ray-xre@www.speedtest.net:80?security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#%40Freakconfig
