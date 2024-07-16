@@ -1,3 +1,4 @@
+vless://--VPNCUSTOMIZE--@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://-VPNCUSTOMIZE-@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://VPNCUSTOMiZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://VpNCUSTOMiZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
@@ -12,4 +13,3 @@ vless://telegram:VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNC
 vless://telegram:VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#All@VPNCUSTOMIZE ²
 vless://telegram:VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://CHANNEL:VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#All @VPNCUSTOMIZE ¹
-vless://CHANNEL:VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#All@VPNCUSTOMIZE ²
