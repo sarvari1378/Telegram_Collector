@@ -1,3 +1,5 @@
+vless://0bcd4b6a-cc84-4542-8b86-df0f97252e75@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://ba6e5115-736e-4377-a0ca-05cab776f628@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://e6f5d3b2-cae0-4c40-b8f0-32c24ab498d5@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://a8fe75b5-e2b7-4166-a5d7-074cee260aed@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://94f03b17-9902-496a-9ef4-efd519fce95e@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#@vpnstorefast+MTN
@@ -11,5 +13,3 @@ vless://d3d92bd3-62bc-4ed2-a820-9e97a09b50f1@zula.ir:80?path=%2Fjoin-telegram-Af
 vless://41c18739-4595-4b14-8efe-a639a8e8f429@www.parsvds.ir:80?path=%2FTelegram-configMs%3Fed%3D2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#@vpnstorefast
 vless://4307454c-12a4-4834-a925-ba9371c0eade@104.31.16.85:80?path=%2Fjoin-telegram-afV2ray&security=none&encryption=none&host=www.an.80V2ray.zula.ir.roghanali.ir.&type=ws#@vpnstorefast
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@31.7.78.80:46034?security=none&encryption=none&host=skype.com&headerType=http&type=tcp#@vpnstorefast
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws%2F%3Fed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#@vpnstorefast
-vless://e4360b65-e5d6-4e84-a65a-b0f324b65126@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@vpnstorefast

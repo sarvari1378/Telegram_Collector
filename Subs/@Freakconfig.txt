@@ -1,3 +1,5 @@
+vless://c3539933-a451-4915-ac5f-7a99a666aba7@104.21.21.41:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.ncba.ir.&type=ws#%40Freakconfig
+vless://d0dcf0d5-dd3e-497d-e780-957c0e136439@88.135.46.45:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40Freakconfig
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#%40Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
 vless://DIGIV2RAY@185.146.173.93:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Freakconfig
@@ -11,5 +13,3 @@ vless://c274799d-6bbd-48a8-b985-e203217f79b2@45.140.167.94:2096?security=reality
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#%40Freakconfig
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#%40Freakconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#TELEGRAM-FREAKCONFIG
