@@ -1,3 +1,5 @@
+vless://90ffff6d-0223-426b-baeb-ce733580e083@speed.cloudflare.com:2086?path=%2Fhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpn%3Fed%3D1024&security=none&encryption=none&host=www.digikala.com.speedtest.net.tanhaeihayeman.ir&type=ws#%40Freakconfig
+vless://71d85ba3-c15f-4024-f30f-ce3ce3b71a81@151.101.2.219:80?path=%2Flw%3Fed%3D2048&security=none&encryption=none&host=softgameriovlioebs69.ir&type=ws#%40Freakconfig
 vless://977f1e19-56b7-43fd-c5e6-0b448d661d43@www.speedtest.net:80?path=%2Fjoin-telegram-afV2ray%3Fed%3D2048&security=none&encryption=none&host=www.roghanali.IR.&type=ws#%40Freakconfig
 vless://bea33381-de3f-4943-a651-b2aeb082840b@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#Freakconfig
@@ -11,5 +13,3 @@ vless://telegram-id-ArV2ray@www.parsvds.ir:2095?path=%2F%2574ele%2567ra%256d-%25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Freakconfig
 vless://c9abc6f1-7c7a-4bcb-a807-7e3365dc48fd@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=7.V.www.speedtest.net.dev.cloudflare.com.pinocchio1.ir.&type=ws#%40Freakconfig
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?path=%2F&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#%40Freakconfig
-vless://c3539933-a451-4915-ac5f-7a99a666aba7@104.21.21.41:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.ncba.ir.&type=ws#%40Freakconfig
