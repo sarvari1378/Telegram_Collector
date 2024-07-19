@@ -1,3 +1,5 @@
+vless://4d900dba-21a4-455c-9f2b-4a4d8cdcff8b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#@vpnstorefast+MTN
+vless://30c1c7d4-94c9-4473-902f-8f53d7326c60@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#@vpnstorefast+MTN
 vless://DIGiv2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#@vpnstorefast
 vless://71d85ba3-c15f-4024-f30f-ce3ce3b71a81@151.101.2.219:80?path=%2Flw%3Fed%3D2048&security=none&encryption=none&host=softgameriovlioebs69.ir&type=ws#@vpnstorefast
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=9.V.v.v.ww.speedtest.net.zula.ir.cloudflare.com.mashtimji.iR.&type=ws#@vpnstorefast
@@ -11,5 +13,3 @@ vless://SVNTEAM@speedtest.net:443?type=ws&host=torb.com&path=/?ed%3D1024&securit
 vless://977f1e19-56b7-43fd-c5e6-0b448d661d43@www.speedtest.net:80?path=%2Fjoin-telegram-afV2ray%3Fed%3D2048&security=none&encryption=none&host=www.roghanali.IR.&type=ws#@vpnstorefast
 vless://11acebbc-eb3b-4cba-9951-0e7e6d6831b6@185.146.173.50:8080?path=%2FDAILY-CONFIGS%3Fed%3D8080&security=none&encryption=none&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&type=ws#@vpnstorefast
 vless://3c866fc1-4fde-436b-900f-d0f835e2d25b@198.41.221.63:8080?path=%2FDAILY-CONFIGS%3Fed%3D8080&security=none&encryption=none&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&type=ws#@vpnstorefast
-vless://its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@vpnstorefast
-vless://ab178d57-d18c-4658-8362-f06599777cae@zula.ir:80?path=AfV2ray%3Fed%3D2048&security=none&encryption=none&host=allV2ray.cbr.roghanali.IR.&type=ws#@vpnstorefast
