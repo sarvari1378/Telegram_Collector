@@ -1,3 +1,5 @@
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=%2F&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#%40Freakconfig
 vless://venom-servers@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=VenomServers&sni=toro.yadammire.ir#%40Freakconfig
 vless://1668fbe7-0779-4812-9d70-6a4fabc8490d@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=30.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&type=ws#%40Freakconfig
@@ -11,5 +13,3 @@ vless://977f1e19-56b7-43fd-c5e6-0b448d661d43@www.speedtest.net:80?path=%2Fjoin-t
 vless://bea33381-de3f-4943-a651-b2aeb082840b@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#Telegram-Freakconfig
-vless://ab178d57-d18c-4658-8362-f06599777cae@zula.ir:80?path=AfV2ray%3Fed%3D2048&security=none&encryption=none&host=allV2ray.cbr.roghanali.IR.&type=ws#%40Freakconfig
-vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=%2F&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#%40Freakconfig
