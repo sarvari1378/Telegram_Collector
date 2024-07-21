@@ -1,3 +1,6 @@
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
+vless://590cb523-a572-45e6-853f-3677853e1074@62.60.141.189:21461?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM+%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
 vless://590cb523-a572-45e6-853f-3677853e1074@62.60.141.189:21461?security=none&encryption=none&headerType=none&type=tcp#TELEGRAM+%40Freakconfig
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=TELEGRAM-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#%40Freakconfig
@@ -10,6 +13,3 @@ vless://venom-servers@www.speedtest.net:443?mode=gun&security=tls&encryption=non
 vless://1668fbe7-0779-4812-9d70-6a4fabc8490d@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=30.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&type=ws#%40Freakconfig
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws%2F%3Fed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
-vless://5779d821-693b-4573-b71d-d332199ead38@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.11.buydeskapp.com.&type=ws#%40Freakconfig
-vless://85ceb245-40ee-433b-9e51-4c7a3167a70b@zula.ir:443?path=%2Fc3afc49f.ab841-rcb.pages.dev%2F%3Fed%3D2048.%40AB_841.%40AB_841.%40AB_841.%40AB_841&security=tls&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%40Freakconfig
-vless://90ffff6d-0223-426b-baeb-ce733580e083@speed.cloudflare.com:2086?path=%2Fhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpnhormozvpn%3Fed%3D1024&security=none&encryption=none&host=www.digikala.com.speedtest.net.tanhaeihayeman.ir&type=ws#%40Freakconfig
