@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVXMxLnNvY2lmaWxlcy5jb20uIiwiaWQiOiIzM2FlODZhMC00NzNkLTExZWYtYTZjZC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoiQEZyZWFrY29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://DIgIV2RAy@185.146.173.93:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Freakconfig
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@188.114.97.3:80?path=%2FPROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#%40Freakconfig
 vless://02eb83b5-7f86-49e6-a451-5fd1343f34ad@190.93.247.155:80?path=%2FPROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
@@ -11,5 +13,3 @@ vless://TELEGRAM-ID-XPNTEAM@xpnteam-mci-free-chanell.eiskaltenaa.ir:2096?mode=gu
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@104.26.14.16:2053?path=%2F&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#%40Freakconfig
-vless://venom-servers@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=VenomServers&sni=toro.yadammire.ir#%40Freakconfig
-vless://1668fbe7-0779-4812-9d70-6a4fabc8490d@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=30.V.v.ww.speedtest.net.zula.ir.pinocchio1.ir.&type=ws#%40Freakconfig
