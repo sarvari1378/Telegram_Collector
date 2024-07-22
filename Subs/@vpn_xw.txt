@@ -1,3 +1,5 @@
+vless://21853e7d-8ade-4731-a8e1-32e735a567ce@ipv6dali.xwdil.ir:8080?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%B5+%40vpn_xw+%7C+mtn
+vless://c0615218-5881-49d3-a008-03ca8359dc68@www.visa.com:80?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=ipv4dali.xwdil.ir&type=ws#%F0%9F%87%A8%F0%9F%87%B5+%40vpn_xw+%7C+mci
 vmess://eyJhZGQiOiIxMzcuMTg0LjU0LjEwNCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzMjEzNzQzNC0wNTIyLTQyOTUtYWRmMC0xMmMxNGQyYzc1M2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IlVuaXRlZCBTdGF0ZXMgQHMwMDEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNjUuMjI3LjEwNi4xMjIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDJkZGVhNjEtMzRhZC00NTBjLWVkYTItMGQ3NjkwNGEzNDZhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJVbml0ZWQgU3RhdGVzMiBAczAwMTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNDIuOTMuMTQ0LjM3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImJhMzVmNGEyLTE0Y2MtNGYxNC04MDk4LTFiNDY0YzE4MGExMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODg4MCIsInBzIjoiQHMwMDEzLUQyMjcyNjg3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -11,5 +13,3 @@ vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.188.202.201:8880?security=none&e
 vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@44.234.140.156:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013_official
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@35.159.153.57:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013_official+super+fast
 vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTU5ZGJkYmItNmQwZi00MmY1LWI1YTktYWFlNDczNzdhNzQ2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJhcmdvIiwicG9ydCI6IjQ0MyIsInBzIjoiQXJnb1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiJkd3Bhdi5qZW1meWR0Z3YuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-vless://vpn-xw-gold-eagle@104.19.80.162:80?path=%2FV2ray%2F%3Fed%3D1024&security=none&encryption=none&host=%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.vpnxw.eu.org.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%E2%80%A0NL.MCI%C2%B9
-vless://vpn-xw-gold-eagle@185.146.173.58:80?path=%2FV2ray%2F%3Fed%3D1024&security=none&encryption=none&host=xn--1ug4145pija8k.vpnxw.eu.org.&type=ws#%F0%9F%87%B3%F0%9F%87%B1%E2%80%A0NL.TCI%C2%B2
