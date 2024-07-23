@@ -1,4 +1,4 @@
-vless://Join-VPNCUSTOMIZE@braelyn.ns.cloudflare.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
+vless://Join-VPNCUSTOMIZE@www.parspck.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://feb83e1f-038a-484d-b86d-0a1673311dd4@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://a0ec908f-7bae-4624-9afb-0c3c32fe8e9b@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
