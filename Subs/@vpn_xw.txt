@@ -1,3 +1,5 @@
+vless://21853e7d-8ade-4731-a8e1-32e735a567ce@thexw6.huondadalioshop.ir:8080?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%40vpn_xw%F0%9F%87%B8%F0%9F%87%AA+mtn
+vless://c0615218-5881-49d3-a008-03ca8359dc68@www.visa.com:80?path=%2FNetspeed%3Fed%3D512&security=none&encryption=none&host=thexw4.huondadalioshop.ir&type=ws#%40vpn_xw%F0%9F%87%B8%F0%9F%87%AA+mci
 vless://bf116031-bd1d-4aaf-bc8a-a61395560521@www.speedtest.net:80?path=%2FNetspeed%3Fed%3D512&security=none&encryption=none&host=speedtest.net.Hafezdivan.Online.&type=ws#%E2%84%A2%E2%80%A2xw%C2%B9+%F0%9F%87%A9%F0%9F%87%AA
 vless://bf116031-bd1d-4aaf-bc8a-a61395560521@www.speedtest.net:443?path=%2FChe-Jaleb-Dam-Khonaton-Mare%3Fed%3D1024&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=speedtest.net.Hafezdivan.Online.&fp=firefox&type=ws&sni=speedtest.net.Hafezdivan.Online.#%E2%84%A2%E2%80%A2xw%C2%B2+%F0%9F%87%A9%F0%9F%87%AA
 vless://21853e7d-8ade-4731-a8e1-32e735a567ce@ipv6dali.xwdil.ir:8080?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%B5+%40vpn_xw+%7C+mtn
@@ -11,5 +13,3 @@ vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.237.237.92:8880?security=none&en
 vless://10f529f2-8c2e-4d94-b801-5783bd9d8e21@185.146.173.113:80?path=%2FV2ray%2F%3Fed%3D2048&security=none&encryption=none&host=madridws.xwdil.ir&type=ws#%40vpn_xw+%28madrid-ws%29%F0%9F%87%AA%F0%9F%87%B8
 vless://bc267e61-3431-41d2-b29b-6a8e0861cc33@madrid.xwdil.ir:443/?type=grpc&encryption=none&serviceName=Dali&sni=marca.com&fp=chrome&security=reality&pbk=CkSjKQDP5xMVdboAsHzm4LnSfRK8KB9dxoHGDkQARUM&sid=b9a19b51#%40vpn_xw%2B%7BReality-madrid%F0%9F%87%AA%F0%9F%87%B8%7D
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=%2F&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#%E2%84%A2%E2%80%A2xw+%F0%9F%87%A9%F0%9F%87%AA
-vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@15.188.202.201:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013
-vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@44.234.140.156:8880?security=none&encryption=none&headerType=none&type=tcp#%40s0013_official
