@@ -1,3 +1,4 @@
+vless://join_VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://Channel-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://channel-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
@@ -12,4 +13,3 @@ vless://e8f8236e-5f83-419d-8b0c-5b6ff27c2da6@www.parsvds.ir:80?path=VPNCUSTOMIZE
 vless://67ce895d-e92f-41ed-a243-071f6d4d1b21@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://0b2f0dd1-248a-4f3c-b125-6609c52e98ba@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://bea33381-de3f-4943-a651-b2aeb082840b@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
-vless://TM_VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
