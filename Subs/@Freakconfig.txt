@@ -1,3 +1,5 @@
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
 vless://4f32180d-d33f-415c-a711-2d6ec5c994ed@www.parsvds.ir:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#%40Freakconfig
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4xNTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImphaGZramhhLmNmZCIsImlkIjoiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBGcmVha2NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYWhma2poYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#%40Freakconfig
@@ -11,5 +13,3 @@ vless://Telegram-ipV2Ray-asl@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%
 vless://75ebf066-382b-4b34-8f41-dec7cf883bdb@check-host.net:80?path=%2FPROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+Freakconfig%40
 vless://75ebf066-382b-4b34-8f41-dec7cf883bdb@188.114.97.3:80?path=%2FPROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+Freakconfig%40
 vless://75ebf066-382b-4b34-8f41-dec7cf883bdb@check-host.net:80?path=%2FPROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+Freakconfig%40
-vless://58e6bea1-9928-5974-8880-55b11fd48f86@104.19.148.116:80?path=%2FgbIwv9pciHPGApxVkC6vK8zmU8Bu0MXnViVIxxrFpW7d%3Fed%3D2560&security=none&encryption=none&host=azadiiivpn.se2.vless.sitespeedtest.net.&type=ws#%40Freakconfig
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?path=%2Fyuyg5ujoovohfscy%3Fed%3D2560&security=tls&encryption=none&host=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv#%40Freakconfig
