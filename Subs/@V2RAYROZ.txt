@@ -1,4 +1,4 @@
-vless://TELEGRAM-NUFiLTER@www.speedtest.net:2095?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=emshab.bklink.iR.&type=httpupgrade#1403|05|10_22:13:48
+vless://7396dffc-ed85-482a-9caa-f5e04a6398df@www.speedtest.net:80?path=%2Fdashboard%3Fed%3D2048&security=none&encryption=none&host=Ifyiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.Asve.Dash.Servicequry.Ir.&type=ws#1403|05|10_22:13:48
 vless://ID--V2RAXX@www.speedtest.net:8080?path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#1403|05|10_19:58:20
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@195.15.243.171:2048#1403|05|10_12:23:38
 vless://ID--V2RAXX@payphone.ir:8080?path=%2FV2raxx%3Fed&security=none&encryption=none&host=WwW.vaRzesh3.Com.Ftp.debian.Org.www.speedtest.net.tabnak.org.&type=ws#1403|05|10_12:20:58
