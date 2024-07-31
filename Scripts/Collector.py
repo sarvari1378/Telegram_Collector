@@ -2,26 +2,56 @@ from telethon import TelegramClient
 import os
 import asyncio
 import json
+import re
+import base64
+from datetime import datetime
+import pytz
+import jdatetime
 
 # Replace these with your own API ID and hash
 api_id = os.environ.get('API_ID')
 api_hash = os.environ.get('API_HASH')
-
 session_file = 'Session/@ssarvari1378.session'
 
 # Load target usernames and limits from JSON file
 with open('Jsons/target_usernames.json', 'r') as f:
     target_channels = json.load(f)['channels']
 
-def extract_links(text):
-    """Extract specific links from the text."""
+def rename_link(link, message_time):
+    if link.startswith('ss://') or link.startswith('vless://'):
+        # Remove characters after last '#'
+        if '#' in link:
+            link = link.rsplit('#', 1)[0]
+        link = f"{link}#{message_time}"
+    elif link.startswith('vmess://'):
+        # Base64 decode, modify, and encode back
+        try:
+            decoded = base64.urlsafe_b64decode(link[8:]).decode('utf-8')
+            if '#' in decoded:
+                decoded = decoded.rsplit('#', 1)[0]
+            modified = f"{decoded}#{message_time}"
+            link = f"vmess://{base64.urlsafe_b64encode(modified.encode('utf-8')).decode('utf-8')}"
+        except Exception as e:
+            print(f"Error decoding vmess link: {e}")
+    return link
+
+def extract_links(text, message_time):
+    """Extract specific links from the text and apply renaming logic."""
     links = []
     for line in text.split('\n'):
         if 'vless://' in line or 'vmess://' in line or 'ss://' in line:
             line = line.strip('`')
             if line:
-                links.append(line)
+                renamed_link = rename_link(line, message_time)
+                links.append(renamed_link)
     return links
+
+def convert_to_iran_time(utc_time):
+    tehran_tz = pytz.timezone('Asia/Tehran')
+    iran_time = utc_time.astimezone(tehran_tz)
+    # Convert to Jalali date
+    iran_time_jalali = jdatetime.datetime.fromgregorian(datetime=iran_time)
+    return iran_time_jalali.strftime('%Y|%m|%d_%H:%M:%S')
 
 async def get_messages():
     async with TelegramClient(session_file, api_id, api_hash) as client:
@@ -51,7 +81,9 @@ async def get_messages():
                         break
                     for message in messages:
                         if message.text:
-                            all_links.extend(extract_links(message.text))
+                            message_time_iran = convert_to_iran_time(message.date)
+                            links = extract_links(message.text, message_time_iran)
+                            all_links.extend(links)
                     offset_id = messages[-1].id
                 except Exception as e:
                     print(f"Error while fetching messages: {e}")
