@@ -1,3 +1,4 @@
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?encryption=none&security=tls&sni=t-netplus-4vx.pages.dev&allowInsecure=1&type=ws&host=t-netplus-4vx.pages.dev&path=%2F#1403|05|11_08:59:58
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?encryption=none&security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&allowInsecure=1&type=ws&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&path=%2F#1403|05|11_02:59:59
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.245.217:443?encryption=none&security=tls&sni=mmdv2.pages.dev&fp=randomized&allowInsecure=1&type=ws&host=mmdv2.pages.dev&path=%2F#1403|05|10_21:01:00
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?encryption=none&security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&allowInsecure=1&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=%2F#1403|05|10_15:00:56
@@ -12,4 +13,3 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?encryption=none&se
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?encryption=none&security=tls&sni=unmanliest.appreviewcenter.com&fp=chrome&allowInsecure=1&type=ws&host=unmanliest.appreviewcenter.com&path=%2Fnimws#1403|05|08_03:01:07
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?encryption=none&security=tls&sni=bpb-worker-panel3.pages.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=bpb-worker-panel3.pages.dev&path=%2F#1403|05|07_21:01:06
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&security=tls&sni=www.Arizona.edu&allowInsecure=1&type=ws&host=fraud.chase&path=%2F%3Fed#1403|05|07_15:00:54
-vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?encryption=none&security=tls&sni=tr2.tradex2080.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=httpupgrade&host=tr2.tradex2080.com&path=%2FBQV6vAwQzmCFpMcdx#1403|05|07_09:00:56
