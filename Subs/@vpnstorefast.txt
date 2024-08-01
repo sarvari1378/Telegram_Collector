@@ -1,3 +1,4 @@
+vless://SAVTEAM1@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtesd.net&fp=firefox&type=ws&sni=speedtest.net#1403|05|11_13:57:16
 vless://TELEGRAM-ExpressVPN_420@ja1.fhQ0la447aac5504dspeedtestircomnetmeleOsjanwjdiFjsNjSx.com:2095?type=httpupgrade&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D80&host=9.9.9.9.76.v.www.speedtest.net.nestle.ir.ftp.debian.org.arvinbaluch.IR.&security=none#1403|05|11_02:38:59
 vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#1403|05|09_00:48:07
 vless://165e930c-9c66-4ad9-9acf-61035b9051db@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=split.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=splithttp#1403|05|09_00:48:07
@@ -12,4 +13,3 @@ vless://86842247-aef7-421f-ab80-8506d940991b@185.146.173.58:8080?path=%2Fservern
 vless://374f45ef-0fdd-40ae-8140-2e1db38442b9@zula.ir:8080?path=%2F&security=none&encryption=none&host=waded.narcoshop.ir.&type=ws#1403|05|04_22:21:24
 vless://2d2c569b-b8e6-458d-83dd-ba59af8c2d17@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=kony69.servernet.fun.&type=ws#1403|05|04_22:20:59
 vless://17ad8ec8-0d20-4344-8ffc-5080bc17d741@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=ko.servernet.fun.&type=ws#1403|05|04_22:20:59
-vless://86842247-aef7-421f-ab80-8506d940991b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#1403|05|04_22:20:59
