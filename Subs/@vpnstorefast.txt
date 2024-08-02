@@ -1,3 +1,5 @@
+vless://7ee1514d-b6f6-4ff5-bb05-0d4f6440f9cb@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#1403|05|13_01:56:33
+vless://5563f166-d003-4fa4-9424-259dbe44ce37@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=split.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=splithttp#1403|05|13_01:56:33
 vless://SAVTEAM2@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#1403|05|12_15:20:43
 vless://07d562ea-f91f-4c9e-878f-b7bde8dc4143@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#1403|05|12_01:20:06
 vless://9cec81e5-2ced-45c7-8289-dd7843f06053@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=split.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=splithttp#1403|05|12_01:20:06
@@ -11,5 +13,3 @@ vless://ca13a842-a7a9-4409-93aa-23f81d291d1a@185.146.173.58:8080?path=%2Fservern
 vless://4213defc-23ed-4d74-a07b-3aed0a5c40a4@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#1403|05|06_23:20:53
 vless://374f45ef-0fdd-40ae-8140-2e1db38442b9@zula.ir:8080?path=%2F&security=none&encryption=none&host=waded.narcoshop.ir.&type=ws#1403|05|06_01:56:58
 vless://2d2c569b-b8e6-458d-83dd-ba59af8c2d17@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=kony69.servernet.fun.&type=ws#1403|05|06_01:56:11
-vless://17ad8ec8-0d20-4344-8ffc-5080bc17d741@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=ko.servernet.fun.&type=ws#1403|05|06_01:56:11
-vless://86842247-aef7-421f-ab80-8506d940991b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#1403|05|06_01:56:11
