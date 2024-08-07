@@ -1,3 +1,6 @@
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407?security=none&encryption=none&headerType=none&type=tcp#1403|05|17_22:13:11
+vless://38577f4f-c506-40b9-ab1b-d268cd2856f2@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc4.lebasnoo.ir.&type=ws#1403|05|17_22:11:51
+vless://7abd5edd-3b35-4a6c-9250-93f7e787b20a@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc3.lebasnoo.ir.&type=ws#1403|05|17_22:11:51
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542?security=none&encryption=none&headerType=none&type=tcp#1403|05|17_00:39:49
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407?security=none&encryption=none&headerType=none&type=tcp#1403|05|17_00:39:49
 vless://d82e1a8b-3b01-43f0-88e3-515f6720f6f7@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc4.lebasnoo.ir.&type=ws#1403|05|17_00:38:42
@@ -10,6 +13,3 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:34198?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:31407?security=none&encryption=none&headerType=none&type=tcp#1403|05|15_12:12:37
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:48e4::1]:43404?security=none&encryption=none&headerType=none&type=tcp#1403|05|15_12:12:37
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542?security=none&encryption=none&headerType=none&type=tcp#1403|05|15_12:12:37
-vless://7ee1514d-b6f6-4ff5-bb05-0d4f6440f9cb@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#1403|05|13_01:56:33
-vless://5563f166-d003-4fa4-9424-259dbe44ce37@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=split.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=splithttp#1403|05|13_01:56:33
-vless://SAVTEAM2@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#1403|05|12_15:20:43
