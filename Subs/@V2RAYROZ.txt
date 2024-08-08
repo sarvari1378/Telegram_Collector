@@ -1,3 +1,5 @@
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=%2FXV2ry2%3Fed%3D2560&security=none&encryption=none&host=w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.&type=ws#1403|05|18_12:25:25
+vless://SAVTEAM5@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#1403|05|18_12:24:42
 vless://TELEGRAM-NUFiLTER@www.speedtest.net:8080?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=12.v2.n.www.speedtest.net.dnschecker.onE.&type=httpupgrade#1403|05|17_22:11:29
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#1403|05|17_19:54:49
 vless://94f51d56-204b-466b-b1d7-d397df9273d2@188.114.96.2:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#1403|05|17_12:20:01
@@ -11,5 +13,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8880?path=%2FTELE
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=9.V2.c.www.speedtest.net.debian.org.dnschecker.tecH.&type=httpupgrade#1403|05|15_19:58:18
 vless://c9b45af4-b8cf-48bd-bb48-02fc51217b39@[::ffff:3625:4d8d]:54834?security=none&encryption=none&headerType=none&type=tcp#1403|05|15_12:16:36
 vless://Telegram-ipV2Ray-gao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#1403|05|14_22:10:12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1403|05|14_20:11:52
-vless://Telegram-ipV2Ray-gao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#1403|05|14_12:10:43
