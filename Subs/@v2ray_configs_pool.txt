@@ -1,3 +1,5 @@
+vless://Its_VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|05|23_14:40:41
+vless://Telegram-ipV2Ray-cup@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#1403|05|23_14:39:38
 vless://43638837-63be-4574-a8e2-b43abe59dcd2@www.speedtest.net:80?type=ws&path=%2Fhormozpvn-hormozpn-hormozn-hormoz%3Fed%3D1024&host=www.speedtest.net.hormozhoemozhormozhormozhormozhormozhornozhormoz.tanhaeihayeman.ir&security=none#1403|05|23_14:37:23
 vless://24238d3b-14c9-45b9-8876-b5f096e9ef1d@104.21.19.124:8880/?type=tcp&encryption=none#1403|05|23_14:37:16
 vless://0dca0968-d923-4cc1-8bcb-760adeb78c61@85.133.201.25:4003?encryption=none&security=none&type=tcp&headerType=http&host=%40VPNHubMaRKeT#1403|05|23_14:36:24
@@ -11,5 +13,3 @@ vless://24238d3b-14c9-45b9-8876-b5f096e9ef1d@104.21.19.124:8880/?type=tcp&encryp
 vless://8ba0985a-42cd-4de8-9330-3916910599f5@185.146.173.58:8080/?type=ws&encryption=none&host=lc7.lebasnoo.ir.&path=%2Fservernett#1403|05|23_14:31:17
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#1403|05|23_14:31:17
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80/?type=ws&encryption=none&host=fraud.chase&path=%2F%3Fed#1403|05|23_14:31:09
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#1403|05|23_14:31:09
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu&fp=chrome#1403|05|23_14:31:09
