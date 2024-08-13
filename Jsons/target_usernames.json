@@ -8,6 +8,7 @@
       {"identifier": "@VPNCUSTOMIZE", "limit": 15},
       {"identifier": "@v2Line", "limit": 15},
       {"identifier": "@Qv2rayCONFIG", "limit": 20},
+      {"identifier": "@V2rayCollectorDonate", "limit": 20},
       {"name":"Seyyed_Cloud", "identifier": "-1001766495551", "limit": 5}
   ]
 }
