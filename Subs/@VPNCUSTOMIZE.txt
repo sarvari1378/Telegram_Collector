@@ -1,3 +1,4 @@
+vless://VPNCUSTOMIZE@www.speedtest.net:8080?path=%2FTelegram-VPNCUSTOMIZE-Telegram-VPNCUSTOMIZE-Telegram-VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net&type=httpupgrade#1403|05|26_12:00:21
 vless://join_VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|05|06_14:06:28
 vless://Channel-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|05|05_20:00:44
 vless://channel-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|05|05_14:51:44
@@ -12,4 +13,3 @@ vless://a0ec908f-7bae-4624-9afb-0c3c32fe8e9b@www.parsvds.ir:80?path=VPNCUSTOMIZE
 vless://e8f8236e-5f83-419d-8b0c-5b6ff27c2da6@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|04|30_20:42:55
 vless://67ce895d-e92f-41ed-a243-071f6d4d1b21@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|04|30_14:13:29
 vless://0b2f0dd1-248a-4f3c-b125-6609c52e98ba@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|04|29_19:59:56
-vless://bea33381-de3f-4943-a651-b2aeb082840b@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#1403|04|29_13:59:56
