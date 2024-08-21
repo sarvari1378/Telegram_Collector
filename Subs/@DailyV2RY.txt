@@ -1,3 +1,5 @@
+vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@www.speedtest.net:2095?path=%2Ftelegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79,telegram-%41%72%56%32%72%79&security=none&encryption=none&host=2.V2.f.www.speedtest.net.mehpow.iR.&type=ws#1403|05|31_07:00:18
+vmess://IzE0MDN8MDV8MzFfMDc6MDA6MTg=
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V17.SiMansaNaT.Ir.#1403|05|30_21:00:10
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V16.SiMansaNaT.Ir.#1403|05|30_21:00:10
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V25.SiMansaNaT.Ir.#1403|05|30_21:00:10
@@ -16,5 +18,3 @@ vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&ty
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V24.SiMansaNaT.Ir.#1403|05|30_21:00:10
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V18.SiMansaNaT.Ir.#1403|05|30_21:00:10
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V13.SiMansaNaT.Ir.#1403|05|30_21:00:10
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V21.SiMansaNaT.Ir.#1403|05|30_21:00:10
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V22.SiMansaNaT.Ir.#1403|05|30_21:00:10
