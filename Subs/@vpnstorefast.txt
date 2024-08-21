@@ -1,3 +1,4 @@
+vless://60963371-8568-4a1f-905c-df3648a28171@www.speedtest.net:8080?type=httpupgrade&path=%2F%40custom_config%3Fed%3D1024&host=000.soFt98.ir.wWw.speedtest.nEt.gOoglE.com.xn--hgb8pjib.enDed-lAtin.iR.&security=none#1403|05|31_21:28:34
 vless://SVNTEAM6@speedtest.net:443?path=%2FSVNTEAM%2CPROVIP%2CSVNTEAM%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#1403|05|31_00:31:23
 vless://5288ff46-1f84-4b31-b7f2-d12d8010ae0d@zula.ir:2095?type=ws&path=%2F%40custom_config%3Fed%3D1024&host=0.Soft98.ir.clOudFlare.com.wWw.speeDtest.nEt.xn--pgbjg0e.eNded-lAtin.iR.&security=none#1403|05|30_22:42:55
 vless://edeb865a-4d33-474f-b4d3-4be4055c7644@www.speedtest.net:8080?type=httpupgrade&path=%2F%40custom_config%3Fed%3D1024&host=0.soFt98.ir.wWw.speedtest.nEt.gOoglE.com.xn--mgbfv9dm65d.enDed-lAtin.iR.&security=none#1403|05|30_22:41:23
@@ -12,4 +13,3 @@ vless://be460d53-c513-4b6b-acbc-9ef3fcee6f04@185.146.173.58:8080?path=%2Fservern
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:22481?security=none&encryption=none&headerType=none&type=tcp#1403|05|27_05:35:30
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:45075?security=none&encryption=none&headerType=none&type=tcp#1403|05|27_05:35:30
 vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Yek.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#1403|05|26_16:41:26
-vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#1403|05|26_16:41:26
