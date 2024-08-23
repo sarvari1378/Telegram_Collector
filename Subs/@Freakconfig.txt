@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=cXrolvpn.pagEs.DEv&type=ws&sni=cXrOLvPn.PAgEs.dev#1403|06|03_01:46:08
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.1:443?path=%2FnWsRPQbL6MuyT23J%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2CBBb5dF.CXrOLvpn.pAGEs.DEV&fp=randomized&type=ws&sni=2CBbb5df.CxRoLVpn.pages.dev#1403|06|03_01:46:08
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FRSj7f1nzMTh76aCG%3Fed%3D2560&security=tls&encryption=none&host=V2NgfaST-3tm.pAgeS.dEV&type=ws&sni=v2NGFASt-3Tm.pagES.Dev#1403|06|02_20:24:59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|06|02_20:24:59
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FRSj7f1nzMTh76aCG%3Fed%3D2560&security=tls&encryption=none&host=V2NgfaST-3tm.pAgeS.dEV&type=ws&sni=v2NGFASt-3Tm.pagES.Dev#1403|06|02_11:47:05
@@ -11,5 +13,3 @@ vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@100.21.131.48:8880?security=none&en
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&type=ws&sni=Pages.dev#1403|05|31_22:17:44
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@parsvds.com:443?path=%2FXV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&type=ws&sni=pages.dev#1403|05|31_22:17:44
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#1403|05|31_11:49:16
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#1403|05|31_11:49:16
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80?path=TG+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#1403|05|31_11:49:16
