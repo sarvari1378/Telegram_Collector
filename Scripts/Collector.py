@@ -39,8 +39,10 @@ def extract_links(text, message_time):
     """Extract specific links from the text and apply renaming logic."""
     links = []
     for line in text.split('\n'):
+        # Remove the 'Config(s): ```' prefix if it exists
+        line = line.replace('Config(s): ```', '').strip('`')
+        
         if 'vless://' in line or 'vmess://' in line or 'ss://' in line:
-            line = line.strip('`')
             if line:
                 renamed_link = rename_link(line, message_time)
                 links.append(renamed_link)
