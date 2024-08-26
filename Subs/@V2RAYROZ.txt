@@ -1,4 +1,4 @@
-vless://SVNTEAM16@speedtest.net:443?path=%2FSVNTEAM%2CPROVIP%2CSVNTEAM%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#1403|06|05_12:39:43
+vless://Parsashonam-49@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#1403|06|05_12:39:43
 vless://0261c611-29a3-4feb-ae9a-f8c384b74821@www.zula.ir:2052?path=%2F%2FChanell-NeT.Azad-TelegramID-%40TiRDaD1359%3Fed%3D80&security=none&encryption=none&host=www.cloudtest.com.www.speedtest.net.brt.debian.org.fot--ihqvlaa157dbv2ciyg50okggl0r2f5bcj1airfi2837tbrwety8gh9a.kmXShop.Ir.&type=httpupgrade#1403|06|05_12:38:07
 vless://TELEGRAM-NUFiLTER@speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=KEKE.ir&fp=chrome&type=ws&sni=speedtest.net#1403|06|04_22:18:34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|06|04_20:00:52
