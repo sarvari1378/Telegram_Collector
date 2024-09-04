@@ -1,5 +1,5 @@
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80?path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.20.10.10.10.10.ir.xn--g28h.dns-dynamic.net.&type=ws#1403|06|14_23:02:23
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.30.118:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#1403|06|14_20:19:40
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80?path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.20.10.10.10.10.ir.xn--g28h.dns-dynamic.net.&type=ws#1403|06|14_20:19:40
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?path=%2FTelegram-XV2ry2%3Fed%3D1080P&security=tls&encryption=none&host=wr.dev&type=ws&sni=speedtest.net#1403|06|14_12:02:01
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#1403|06|14_12:00:25
 vless://TELEGRAM-SVNTEAM2@www.speedtest.net:8880?path=%2FTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%3Fed%3D8880&security=none&encryption=none&host=MobileKaraj.wWw.SpeedTeSt.Net.MobileSvn.GiSvn.IR.&type=httpupgrade#1403|06|13_22:03:04
