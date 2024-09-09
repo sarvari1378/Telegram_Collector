@@ -4,6 +4,7 @@ from telethon.sync import TelegramClient
 import re
 import requests
 from collections import namedtuple
+import os
 
 
 # Telegram API credentials
