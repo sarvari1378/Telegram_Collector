@@ -7,8 +7,8 @@ from collections import namedtuple
 
 
 # Telegram API credentials
-api_id = '26963557'
-api_hash = '70aed19a29d2321933d9c4f652534c0f'
+api_id = os.environ.get('API_ID')
+api_hash = os.environ.get('API_HASH')
 Session = 'Session/@AliMostafai.session'
 bot_username = "@Qv2raybot"
 
