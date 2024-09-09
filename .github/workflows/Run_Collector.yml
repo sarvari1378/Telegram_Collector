@@ -25,7 +25,7 @@ jobs:
         pip install pytz
         pip install jdatetime
         pip install requests
-        pip install collections
+        
         
     - name: Run Python script
       env:
