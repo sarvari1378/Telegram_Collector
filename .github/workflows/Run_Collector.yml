@@ -31,6 +31,7 @@ jobs:
         API_HASH: ${{ secrets.API_HASH }}
       run: |
         python Scripts/Collector.py
+        python Scripts/AutoWorker.py
 
       
     - name: Commit and push changes
