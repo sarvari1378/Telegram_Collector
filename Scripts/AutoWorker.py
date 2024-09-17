@@ -5,7 +5,7 @@ import re
 import requests
 from collections import namedtuple
 import os
-
+import base64
 
 # Telegram API credentials
 api_id = os.environ.get('API_ID')
@@ -31,6 +31,35 @@ def get_link_content(link):
         print(f"Failed to retrieve content from {link}. Error: {e}")
         return None
 
+# Function to check if the content is Base64 encoded
+def is_base64_encoded(content):
+    # Base64 strings are typically only composed of certain characters
+    base64_regex = r'^[A-Za-z0-9+/=]+\Z'
+    if re.match(base64_regex, content):
+        try:
+            # Try decoding to check if it’s valid Base64
+            base64.b64decode(content).decode('utf-8')
+            return True
+        except Exception:
+            return False
+    return False
+
+# Function to decode the content if it's Base64 encoded
+def decode_content_if_needed(content):
+    if is_base64_encoded(content):
+        try:
+            # Decode the Base64 content
+            decoded_content = base64.b64decode(content).decode('utf-8')
+            print("Content was Base64 encoded, decoded successfully.")
+            return decoded_content
+        except Exception as e:
+            print(f"Failed to decode Base64 content. Error: {e}")
+            return content  # Return original content if decoding fails
+    else:
+        # Content is not encoded
+        print("Content is not Base64 encoded.")
+        return content
+
 # Function to save content to a file
 def save_content_to_file(content, filename='Subs/AutoWorker.txt'):
     with open(filename, 'wb') as file:
@@ -50,14 +79,17 @@ async def main():
                 if link:
                     content = get_link_content(link)
                     if content:
-                        # Check if content starts with the specific phrase
-                        if content.startswith("trojan://pooya@Qv2raychannel:80?"):
+                        # Check if content is Base64 encoded and decode if necessary
+                        decoded_content = decode_content_if_needed(content)
+                        
+                        # Check if the decoded content starts with the specific phrase
+                        if decoded_content.startswith("trojan://pooya@Qv2raychannel:80?"):
                             print("The link is old.")
                             await client.send_message(bot_entity, 'Xray')
                             print("Sent 'Xray' to the bot.")
                         else:
-                            # If content does not start with the phrase, save it
-                            save_content_to_file(content)
+                            # Save content (decoded or original) if it doesn't match the phrase
+                            save_content_to_file(decoded_content)
                             return  # Exit after saving the content
                 else:
                     # If no link is found, send "Xray" to the bot
