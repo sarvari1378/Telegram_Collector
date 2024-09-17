@@ -1,3 +1,4 @@
+vless://306d9866-3f3e-4cc0-a6aa-dde134a81754@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#1403|06|27_14:57:46
 vless://11ad051c-e153-4486-ab37-28340768861d@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#1403|06|26_11:48:55
 vless://009dca5b-8b8a-4914-b735-8e6f832c2f2d@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#1403|06|24_22:41:09
 vless://ee89b27f-aa7f-49d8-9743-596e51bd3eb8@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#1403|06|23_12:53:59
@@ -12,4 +13,3 @@ vless://Parsashonam-60@151.101.66.219:443?path=%2F%40Parsashonam%2Fws%3Fed%3D256
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=roocket.ir.&fp=randomized&type=ws&sni=speedtest.net#1403|06|21_15:13:30
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=roocket.ir.&fp=randomized&type=ws&sni=speedtest.net#1403|06|21_13:53:00
 vless://8175b0ae-ed12-4fb2-9740-18a47d786348@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc23.lebasnoo.ir.&type=ws#1403|06|20_23:31:05
-vless://3fc55264-7eb8-4aeb-a2f2-c9eff71c9252@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc22.lebasnoo.ir.&type=ws#1403|06|20_23:31:05
