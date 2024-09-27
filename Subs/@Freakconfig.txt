@@ -1,3 +1,5 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.138:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#1403|07|07_02:30:51
+vless://89534625-0a84-44d6-da42-d516f8f2fcfe@81.12.27.85:22419?security=none&encryption=none&headerType=none&type=tcp#1403|07|07_02:30:51
 vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg18.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg18.pages.dev#1403|07|06_21:37:09
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#1403|07|06_21:37:09
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.184:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#1403|07|06_14:42:51
@@ -11,5 +13,3 @@ vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FBDwnEtVwG7
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#1403|07|04_21:22:40
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.176:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#1403|07|04_21:22:40
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.138:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#1403|07|04_21:22:40
-vless://e7cae227-ffda-4612-a76c-adcf3a9e49b6@79.127.70.80:2082?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#1403|07|04_10:02:57
-vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@www.speedtest.net:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=Ev2RAyDeV.PaGEs.DEV.&fp=chrome&type=ws&sni=PaGEs.DEV.#1403|07|04_10:02:57
