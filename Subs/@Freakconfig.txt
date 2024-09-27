@@ -1,3 +1,5 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.184:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#1403|07|06_14:42:51
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1403|07|06_14:42:51
 vless://Join-Telegram-Picumin@190.93.247.155:80?path=%2Frobots.txt%3Fed%3D2560&security=none&encryption=none&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&type=ws#1403|07|05_22:22:35
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?path=%2FTelegram-Xv2ry2-q1%3Fed%3D512&security=tls&encryption=none&host=wwwspeedtestnet.pages.dev&type=ws&sni=Pages.dev#1403|07|05_22:22:35
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&type=ws&sni=midsUMmER-Bpb.pAgES.DEV#1403|07|05_18:21:51
@@ -11,5 +13,3 @@ vless://e7cae227-ffda-4612-a76c-adcf3a9e49b6@79.127.70.80:2082?security=none&enc
 vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@www.speedtest.net:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=Ev2RAyDeV.PaGEs.DEV.&fp=chrome&type=ws&sni=PaGEs.DEV.#1403|07|04_10:02:57
 vless://3f2a8ac5-f359-4333-865a-7064e31c2537@104.26.15.85:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=nufilter.pages.dev&fp=randomized&type=ws&sni=nufilter.pages.dev#1403|07|03_23:50:56
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?path=%2FTelegram-Xv2ry2-q1%3Fed%3D512&security=tls&encryption=none&host=wwwspeedtestnet.pages.dev&type=ws&sni=Pages.dev#1403|07|03_23:50:56
-vless://d901e011-893d-4303-b47c-52483a2d8918@79.127.70.84:2083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#1403|07|03_08:23:13
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#1403|07|03_08:23:13
