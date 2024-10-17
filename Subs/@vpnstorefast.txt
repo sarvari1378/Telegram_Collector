@@ -1,3 +1,5 @@
+vless://84421222-9d0f-4b6c-9815-a7cd0aff8192@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#1403|07|26_12:59:32
+vless://84421222-9d0f-4b6c-9815-a7cd0aff8192@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#1403|07|26_12:59:01
 vless://272342d6-deb4-4e9d-b779-0dd92086edff@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#1403|07|24_20:50:53
 vless://fb789853-e3f3-450f-9289-78e3e9f3d3e2@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#1403|07|24_02:22:34
 vless://cc35f6ba-be03-4d1e-b229-db443b5a7ce7@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#1403|07|19_19:51:54
@@ -11,5 +13,3 @@ vless://d420f9c3-3433-4f06-bd1c-dac32c1fe6d5@www.speedtest.net:2096?type=ws&host
 vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?type=ws&host=ssdsdsdsdf.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|14_21:48:31
 vless://b55ba5e3-f7c6-4f39-9b06-effdf4605b1c@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev.&fp=firefox&type=ws&sni=pages.dev.#1403|07|14_13:04:00
 vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=ssdsdsdsdf.pages.dev&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|13_17:18:36
-vless://cead84c6-5e61-4fb0-9244-7643a6a1c886@www.speedtest.net:2096?type=ws&security=tls&path=%2FTel%3A%40DOnald_vpn&host=g.yUSEFkharE.SBS&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3%2Ch2%2Chttp%2F1.1#1403|07|13_17:17:51
-vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=ssdsdsdsdf.pages.dev&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|12_19:53:52
