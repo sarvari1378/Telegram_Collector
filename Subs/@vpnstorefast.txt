@@ -1,3 +1,5 @@
+vless://d6ec4a5b-3e01-4688-a40b-e8c714f4b461@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#1403|08|01_19:00:53
+vless://d6ec4a5b-3e01-4688-a40b-e8c714f4b461@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#1403|08|01_19:00:20
 vless://22b67c1d-f178-40ff-82e7-500f8569ff98@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=0ccbc73bf5db5b7e.felafel.org#1403|07|29_12:19:15
 vless://f13b0d60-ab23-49c3-8e4f-fc31ca6fbeca@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#1403|07|29_11:36:25
 vless://f13b0d60-ab23-49c3-8e4f-fc31ca6fbeca@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#1403|07|29_11:35:53
@@ -11,5 +13,3 @@ vless://cc35f6ba-be03-4d1e-b229-db443b5a7ce7@live.wkrq.com:443?path=%2F%40custom
 vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?type=ws&host=ssdsdsdsdf.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|18_21:23:50
 vless://ef61322c-21f2-4359-88f1-0c2c5e25d25d@www.speedtest.net:2096?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:%40DOnald_vpn&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#1403|07|18_21:22:54
 vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@ssdsdsdsdf.pages.dev:443?type=ws&host=ssdsdsdsdf.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|17_13:27:14
-vless://9a5e50a3-abe3-4feb-8838-ce0e8b5f10f4@www.speedtest.net:2096?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:%40DOnald_vpn&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#1403|07|17_13:26:13
-vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?type=ws&host=ssdsdsdsdf.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|15_18:44:17
