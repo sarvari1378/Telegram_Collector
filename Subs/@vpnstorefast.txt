@@ -1,3 +1,4 @@
+vless://8d4a0809-b152-4e23-832f-642695e725d1@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=6970C9eba0e8c249e.felafel.oRg#1403|08|02_11:17:13
 vless://d6ec4a5b-3e01-4688-a40b-e8c714f4b461@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#1403|08|01_19:00:53
 vless://d6ec4a5b-3e01-4688-a40b-e8c714f4b461@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#1403|08|01_19:00:20
 vless://22b67c1d-f178-40ff-82e7-500f8569ff98@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=0ccbc73bf5db5b7e.felafel.org#1403|07|29_12:19:15
@@ -12,4 +13,3 @@ vless://fb789853-e3f3-450f-9289-78e3e9f3d3e2@live.wkrq.com:443?path=%2F%40custom
 vless://cc35f6ba-be03-4d1e-b229-db443b5a7ce7@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#1403|07|19_19:51:54
 vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?type=ws&host=ssdsdsdsdf.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|18_21:23:50
 vless://ef61322c-21f2-4359-88f1-0c2c5e25d25d@www.speedtest.net:2096?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:%40DOnald_vpn&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#1403|07|18_21:22:54
-vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@ssdsdsdsdf.pages.dev:443?type=ws&host=ssdsdsdsdf.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=ssdsdsdsdf.pages.dev#1403|07|17_13:27:14
